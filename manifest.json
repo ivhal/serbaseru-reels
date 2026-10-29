@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "ep23-penangkal-petir",
+   "judul": "Tongkat kecil ini menyelamatkan rumahmu! ⚡🏠",
+   "kategori": "Animasi 3D",
+   "deskripsi": "Tongkat kecil ini menyelamatkan rumahmu! ⚡🏠\n\nPanas petir ±27.000°C, 5× lebih panas dari permukaan matahari 🔥\nKatanya penangkal petir justru \"mengundang\" petir… FAKTANYA logam tidak menarik petir!\n⬆️ Petir menyambar titik paling tinggi, makanya tongkat dipasang di puncak atap\n⚡ Arus puluhan ribu ampere dialirkan lewat kabel tebal → langsung masuk ke tanah ✅\n❌ Tapi kalau kabelnya PUTUS, petir cari jalan lain: lewat dinding & kabel listrikmu!\n📺 Petir di kejauhan pun bisa merusak TV & HP lewat kabel listrik.\n\n✅ Cabut colokan SEBELUM hujan petir datang\n❌ JANGAN mencabut saat petir sedang menyambar\n\nRumahmu sudah punya penangkal petir? Jawab: SUDAH atau BELUM 👇\nKirim ke grup keluarga biar semua aman saat musim hujan 🙏\n\n📚 Sumber: NWS (Badan Cuaca Nasional AS) — suhu & arus petir, mitos logam, keselamatan di dalam rumah; BMKG — >60.000 sambaran/bulan di sebagian Kalimantan, Sulawesi, Papua (April 2026).\n\n#penangkalpetir #petir #musimhujan #tipsrumah #faktaunik #edukasi #3danimation #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/ep23-penangkal-petir.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/ep23-penangkal-petir.jpg",
+   "detik": 48,
+   "mb": 53.9,
+   "sha1": "f8752885e3908a380bbccb390e5ff5b407fec920",
+   "versi": 1,
+   "catatan": "3D ep23 (musim hujan): unggah LANGSUNG sebagai Reel, ±11.00–12.00 atau ±18.00; komentar SUDAH/BELUM; cek insight 24 jam",
+   "ditambah": "2026-10-30"
+  },
+  {
    "id": "p02-laut-dulu-daratan",
    "judul": "Laut ini dulu DARATAN! 😱🌊",
    "kategori": "Peta Seru",
@@ -185,5 +199,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-10-29T23:18:39+07:00"
+ "diperbarui": "2026-10-30T00:51:31+07:00"
 }
