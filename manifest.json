@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "p01-indonesia-amerika",
+   "judul": "Indonesia lebih lebar dari Amerika?! 🇮🇩🗺️",
+   "kategori": "Peta Seru",
+   "deskripsi": "Indonesia lebih lebar dari Amerika?! 🇮🇩🗺️\n\nKita pindahkan Indonesia ke tengah Amerika, dengan UKURAN ASLI (bukan dibesar-besarkan)…\n🌊 Sabang nyemplung di Samudra Pasifik\n🌊 Merauke nyemplung di Samudra Atlantik\n📍 Jakarta jatuh dekat Grand Canyon, Padang dekat San Francisco, Manado dekat Chicago\n🟧 Menimpa 36 dari 48 negara bagian!\n\nTapi menimpa bukan menutupi: daratannya cuma ±1/5 Amerika, karena terpecah jadi 17.380 pulau. Justru itu yang bikin garis pantai kita hampir 3× Amerika 💪\n\nBerikutnya Indonesia ditaruh di mana? EROPA atau AUSTRALIA? Tulis di komentar 👇\nKirim ke teman yang masih ngira Indonesia itu kecil 😏\n\n📚 Data: peta Natural Earth & US Census, dihitung dengan metode ukuran asli (pusat Indonesia di pusat AS daratan, negara bagian dihitung bila tertimpa daratan ≥100 km²). Sabang–Merauke ±5.245 km; AS pantai ke pantai ±4.500 km; jumlah pulau: BIG 2024; garis pantai: CIA World Factbook.\n\n#indonesia #peta #faktaunik #geografi #indonesiahebat #edukasi #amerika #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/p01-indonesia-amerika.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/p01-indonesia-amerika.jpg",
+   "detik": 54,
+   "mb": 27.0,
+   "sha1": "c57f04ff492166fbaf0543e2789d028aa626eb5f",
+   "versi": 1,
+   "catatan": "Pilot jalur PETA: unggah LANGSUNG sebagai Reel (±18.00–18.30 atau ±06.00); cek insight 24 jam",
+   "ditambah": "2026-10-29"
+  },
+  {
    "id": "kd163-jebakan-hantu",
    "judul": "Takut hantu, kok Ayah dijebak? 😱",
    "kategori": "Kisah Doa",
@@ -157,5 +171,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-10-29T12:54:50+07:00"
+ "diperbarui": "2026-10-29T15:00:34+07:00"
 }
