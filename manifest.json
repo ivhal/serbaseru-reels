@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "p02-laut-dulu-daratan",
+   "judul": "Laut ini dulu DARATAN! 😱🌊",
+   "kategori": "Peta Seru",
+   "deskripsi": "Laut ini dulu DARATAN! 😱🌊\n\n20.000 tahun lalu (zaman es), air laut ±120 meter lebih rendah…\n👣 Kamu bisa jalan kaki dari Jakarta ke Kalimantan, bahkan sampai Thailand!\n🟡 Sumatra, Jawa, Kalimantan jadi satu daratan raksasa: SUNDALAND\n🐅 Bali ikut nyambung, Lombok TIDAK (selatnya ±270 m dalamnya). Makanya dulu ada harimau di Bali, tapi tidak pernah ada di Lombok!\n🦘 Papua nyambung ke Australia. Pantas ada kanguru di Papua!\n\nSekarang kebalikannya: kalau SEMUA es di bumi mencair, laut naik ±70 m…\n🌊 Jakarta (8 m), Surabaya (5 m), Medan (26 m) tenggelam. Separuh Sumatra hilang!\n✅ Bandung (703 m), Malang, Bogor aman.\nTenang, itu butuh ribuan tahun 🙏\n\nKotamu aman? Tulis NAMA KOTAMU di komentar 👇\nKirim ke teman yang rumahnya dekat pantai 🏖️\n\n📚 Data ketinggian & kedalaman: NOAA ETOPO1 (dihitung sendiri). Zaman es: Hanebuth dkk. 2000 (Science), Voris 2000. Es mencair ±70 m: USGS.\n\n#indonesia #peta #faktaunik #geografi #zamanes #sundaland #edukasi #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/p02-laut-dulu-daratan.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/p02-laut-dulu-daratan.jpg",
+   "detik": 47,
+   "mb": 58.6,
+   "sha1": "9490fe9cce344ecee6bd0b805e2c98e4eceae38a",
+   "versi": 1,
+   "catatan": "Peta P02 (laut surut/naik): unggah LANGSUNG sebagai Reel, ±18.00–18.30 atau ±06.00; komentar = nama kota; cek insight 24 jam",
+   "ditambah": "2026-10-29"
+  },
+  {
    "id": "p01-indonesia-amerika",
    "judul": "Indonesia lebih lebar dari Amerika?! 🇮🇩🗺️",
    "kategori": "Peta Seru",
@@ -171,5 +185,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-10-29T15:00:34+07:00"
+ "diperbarui": "2026-10-29T23:18:39+07:00"
 }
