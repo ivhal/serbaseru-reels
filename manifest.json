@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "ep24-telat-ganti-oli",
+   "judul": "Oli ini sudah jadi LUMPUR! 🤢",
+   "kategori": "Animasi 3D",
+   "deskripsi": "Oli ini sudah jadi LUMPUR! 🤢 Mesinmu sedang menggerus dirinya sendiri ⚠️\n\n🔍 Di antara piston dan dinding silinder ada lapisan oli yang cuma beberapa mikron, jauh lebih tipis dari sehelai rambut.\n✅ Oli baru melapisi semua logam: licin dan bersih.\n⏰ Kalau telat diganti, oli makin kental, hitam, dan penuh serpihan logam.\n💥 Lapisannya pecah, logam bergesek langsung dengan logam!\n❌ Akibatnya piston & silinder baret, mesin ngebul, tenaga hilang.\n💸 Ganti oli cuma puluhan ribu. Turun mesin? Bisa jutaan!\n\n📘 Ikuti jadwal ganti oli di buku servis motormu (tiap motor beda).\n🚦 Sering lewat jalan macet? Ganti lebih cepat.\n\nMotormu ganti oli tiap berapa kilometer? Tulis angkanya di komentar 👇\nKirim ke teman yang suka telat ganti oli 😅\n\n📚 Sumber: studi ketebalan lapisan oli ring–silinder (SAE); Gridoto/Otomotifnet (dampak telat ganti oli, biaya perbaikan); Moladin (biaya turun mesin); anjuran jadwal servis AHM & mekanik.\n\n#gantioli #olimesin #motor #tipsmotor #perawatanmotor #faktaunik #edukasi #3danimation #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/ep24-telat-ganti-oli.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/ep24-telat-ganti-oli.jpg",
+   "detik": 37,
+   "mb": 22.9,
+   "sha1": "fc90649148d7391ba7ba7bc283f975693ab605ea",
+   "versi": 1,
+   "catatan": "3D ep24 (oli motor): unggah LANGSUNG sebagai Reel, ±11.00–12.00 atau ±18.00; komentar = km ganti oli; cek insight 24 jam",
+   "ditambah": "2026-10-30"
+  },
+  {
    "id": "p03-cincin-api",
    "judul": "Kamu tinggal di CINCIN API! 🌋🔥",
    "kategori": "Peta Seru",
@@ -213,5 +227,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-10-30T02:20:29+07:00"
+ "diperbarui": "2026-10-30T06:35:33+07:00"
 }
