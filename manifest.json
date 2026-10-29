@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "p03-cincin-api",
+   "judul": "Kamu tinggal di CINCIN API! 🌋🔥",
+   "kategori": "Peta Seru",
+   "deskripsi": "Kamu tinggal di CINCIN API! 🌋🔥\n\nIndonesia punya 127 gunung api aktif, terbanyak meletus di dunia. Penyebabnya: lempeng samudra terus menunjam ke bawah pulau-pulau kita.\n💥 Letusan Krakatau 1883 terdengar sampai ±4.800 km jauhnya!\n❄️ Tambora 1815 lebih dahsyat: Eropa sampai mengalami \"tahun tanpa musim panas\" (1816)\n🌾 Tapi abunya membuat tanah sangat subur. Makanya Jawa jadi pulau berpenduduk terbanyak di dunia (±152 juta jiwa)\n🏞️ Bahkan Danau Toba adalah kawah letusan super, ±74.000 tahun lalu!\n\n📱 Tinggal dekat gunung api? Pantau statusnya (Normal–Waspada–Siaga–Awas) di MAGMA Indonesia dari Badan Geologi.\n\nGunung api terdekat dari rumahmu apa? Tulis di komentar 👇\nKirim ke keluarga yang tinggal dekat gunung api 🙏\n\n📚 Sumber: Badan Geologi/MAGMA Indonesia (127 gunung api aktif); Smithsonian Global Volcanism Program (titik lokasi, peringkat letusan sejak 1950); BPS Sensus Penduduk 2020; peta relief NOAA ETOPO1.\n\n#gunungapi #cincinapi #indonesia #krakatau #tambora #danautoba #faktaunik #edukasi #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/p03-cincin-api.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/p03-cincin-api.jpg",
+   "detik": 35,
+   "mb": 35.6,
+   "sha1": "cbbd029ce4af1680b8394d2f351e919925287c79",
+   "versi": 1,
+   "catatan": "Peta P03 (gunung api): unggah LANGSUNG sebagai Reel, ±18.00–18.30 atau ±06.00; komentar = gunung api terdekat; cek insight 24 jam",
+   "ditambah": "2026-10-30"
+  },
+  {
    "id": "ep23-penangkal-petir",
    "judul": "Tongkat kecil ini menyelamatkan rumahmu! ⚡🏠",
    "kategori": "Animasi 3D",
@@ -199,5 +213,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-10-30T00:51:31+07:00"
+ "diperbarui": "2026-10-30T02:20:29+07:00"
 }
