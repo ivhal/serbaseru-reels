@@ -59,6 +59,20 @@
    "ditambah": "2026-10-31"
   },
   {
+   "id": "s07-indonesia-eropa",
+   "judul": "Dibohongi Peta! Indonesia Selebar Eropa 😱",
+   "kategori": "Peta Seru",
+   "deskripsi": "Kita dibohongi peta! Indonesia itu SELEBAR EROPA 😱🌍\n\n📍 Pusat Indonesia kita taruh di tengah Eropa, ukuran asli:\n🌊 Medan nyebur di Samudra Atlantik!\n🗼 Jakarta jatuh di Prancis, Surabaya di Pegunungan Alpen Swiss ❄️\n🍕 Bali di Italia, Makassar dekat Wina, Balikpapan mepet Berlin\n🌊 Jayapura nyebur Laut Kaspia, Merauke sampai Armenia!\n📏 Sabang–Merauke ±5.248 km. Daratan Indonesia menimpa lebih dari 30 negara!\n\nKenapa di peta kelihatan kecil? Peta Mercator (seperti Google Maps) makin membesarkan gambar makin dekat ke kutub. Eropa digambar ±1,6 kali lebih lebar!\n\nKotamu jatuh di mana? Tulis di komentar 👇\nKirim ke teman yang bilang Indonesia kecil 😄\n\n📚 Sumber: hitungan sendiri dari peta Natural Earth (rotasi bola Bumi ala thetruesize.com, ukuran asli terjaga); skala Mercator = 1/cos(lintang).\n\n#faktaunik #peta #indonesia #eropa #geografi #edukasi #petaseru #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/s07-indonesia-eropa.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/s07-indonesia-eropa.jpg",
+   "detik": 34,
+   "mb": 20.5,
+   "sha1": "5bf3bee2d6d658c60647725a03087ab86b61acac",
+   "versi": 1,
+   "catatan": "Short YouTube Peta Seru, terjadwal di YouTube Sen 2-11 11.00 WIB. Di FB tidak dijadwalkan: posting manual sendiri. Video BARU (belum ada versi pNN di FB). Komentar = nama kota; daftar kota lain di komentar_sematkan.txt.",
+   "ditambah": "2026-10-31"
+  },
+  {
    "id": "s06-cincin-api",
    "judul": "Kamu Tinggal di Cincin Api! 🌋",
    "kategori": "Peta Seru",
@@ -69,7 +83,7 @@
    "mb": 35.4,
    "sha1": "0bd7ba5887a6e93994043b076b17de7a5d0b5417",
    "versi": 1,
-   "catatan": "Short YouTube Peta Seru, terjadwal di YouTube Sen 2-11 11.00 WIB. Di FB tidak dijadwalkan: posting manual sendiri. SAMA PERSIS dengan p03-cincin-api (beda lencana saja) → posting salah satu saja. Komentar = gunung api terdekat.",
+   "catatan": "Short YouTube Peta Seru, terjadwal di YouTube Sen 2-11 20.00 WIB. Di FB tidak dijadwalkan: posting manual sendiri. SAMA PERSIS dengan p03-cincin-api (beda lencana saja) → posting salah satu saja. Komentar = gunung api terdekat.",
    "ditambah": "2026-10-31"
   },
   {
@@ -339,5 +353,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-10-31T04:41:53+07:00"
+ "diperbarui": "2026-10-31T06:08:04+07:00"
 }
