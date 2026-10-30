@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "p05-kerumunan",
+   "judul": "Semua orang Indonesia muat di SINI?! 😱👥",
+   "kategori": "Peta Seru",
+   "deskripsi": "Semua orang Indonesia muat di SINI?! 😱👥\n\n285 juta orang Indonesia, kalau berdiri berdempetan 4 orang per meter persegi, cuma butuh ±71 km²…\n🏙️ Itu kurang dari separuh Kota Bandung!\n🌏 Bahkan seluruh manusia di Bumi, 8 miliar orang, muat di sepertiga Pulau Bali!\n🗺️ Daratan Indonesia ±27.000 kali lebih luas dari kerumunan itu.\n🚗 Jadi yang sempit itu bukan Indonesia… tapi jalanan kita 😂\n\nKotamu muat berapa juta orang? Tulis nama kotamu di komentar 👇\nKirim ke teman sekotamu 😄\n\n📚 Sumber: penduduk Indonesia 284,67 juta (BPS, SUPAS 2025); penduduk dunia ±8,23 miliar (PBB, World Population Prospects 2024); kepadatan 4 orang/m² (panduan kerumunan G. Keith Still); luas Kota Bandung 167,31 km² (BPS); peta Bandung © OpenStreetMap contributors.\n\n#faktaunik #indonesia #penduduk #peta #bandung #bali #edukasi #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/p05-kerumunan.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/p05-kerumunan.jpg",
+   "detik": 32,
+   "mb": 59.8,
+   "sha1": "73a5f6071637f8a8759dc4e62f7aac060eb1a727",
+   "versi": 1,
+   "catatan": "Peta P05 (kerumunan): unggah LANGSUNG sebagai Reel ±18.00–18.30 atau ±11.30; sematkan komentar dari komentar_sematkan.txt (kapasitas kota); komentar = nama kota; cek insight 24 jam",
+   "ditambah": "2026-10-30"
+  },
+  {
    "id": "p04-tembus-bumi",
    "judul": "Gali tembus Bumi dari Jakarta… keluar di mana? 🌎⛏️",
    "kategori": "Peta Seru",
@@ -241,5 +255,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-10-30T08:01:49+07:00"
+ "diperbarui": "2026-10-30T08:47:20+07:00"
 }
