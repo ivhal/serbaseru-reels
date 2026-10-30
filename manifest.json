@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "p04-tembus-bumi",
+   "judul": "Gali tembus Bumi dari Jakarta… keluar di mana? 🌎⛏️",
+   "kategori": "Peta Seru",
+   "deskripsi": "Gali tembus Bumi dari Jakarta… keluarnya di KOLOMBIA! 🌎⛏️\n\n🕳️ Rekor lubang terdalam buatan manusia baru 12 km (lubang Kola, Rusia), belum sampai 0,1% jalan menembus Bumi.\n🔥 Di bawahnya ada mantel pijar, lalu inti besi ±6.000°C, kira-kira sepanas permukaan Matahari ☀️\n⏱ Kalau lompat ke lubang yang menembus pusat Bumi (tanpa hambatan udara), kamu jatuh ±38 menit.\n📍 Dan kamu muncul di sisi seberang: hampir seluruh Indonesia \"berseberangan\" dengan Amerika Selatan!\n➡️ Padang tembus Ekuador, Surabaya tembus Venezuela, Makassar dekat Gunung Roraima.\n🌊 Tapi Medan nyebur Samudra Pasifik, dan Papua nyebur Samudra Atlantik!\n\nKotamu tembus ke mana? Tulis nama kotamu di komentar 👇\nTag teman sekotamu 😄\n\n📚 Sumber: lubang Kola SG-3 12.262 m (1989); suhu inti ±6.000°C (Science, 2013); waktu jatuh ±38 menit (Klotz, American Journal of Physics, 2015); titik tembus dihitung dari peta Natural Earth; citra Bumi NASA Blue Marble.\n\n#faktaunik #bumi #inti_bumi #peta #indonesia #amerikaselatan #sains #edukasi #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/p04-tembus-bumi.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/p04-tembus-bumi.jpg",
+   "detik": 37,
+   "mb": 23.9,
+   "sha1": "eb94b21ce7df41c3f6821bfd58bf6da089979b88",
+   "versi": 1,
+   "catatan": "Peta P04 (tembus Bumi): unggah LANGSUNG sebagai Reel ±18.00–18.30 atau ±11.30; sematkan komentar dari komentar_sematkan.txt (daftar kota); komentar = nama kota; cek insight 24 jam",
+   "ditambah": "2026-10-30"
+  },
+  {
    "id": "ep24-telat-ganti-oli",
    "judul": "Oli ini sudah jadi LUMPUR! 🤢",
    "kategori": "Animasi 3D",
@@ -227,5 +241,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-10-30T06:35:33+07:00"
+ "diperbarui": "2026-10-30T08:01:49+07:00"
 }
