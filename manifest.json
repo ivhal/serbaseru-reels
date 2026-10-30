@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "p06-garis-wallace",
+   "judul": "Garis gaib ini membelah Indonesia?! 😱⚡",
+   "kategori": "Peta Seru",
+   "deskripsi": "Garis gaib ini membelah Indonesia?! 😱⚡\n\n🐯 Di barat garis: harimau, gajah, orangutan, semuanya hewan Asia.\n🦘 Di timur garis: kakatua, kuskus berkantong, kanguru pohon, alias hewan ala Australia.\n⛵ Padahal Bali–Lombok cuma ±2 jam berlayar! Penjelajah Alfred Wallace (1856) sampai bilang bedanya seperti Eropa dan Amerika.\n\n🔎 Rahasianya: garis ini adalah tepi benua Asia. Selatnya sangat dalam (±270 m di Selat Lombok, ±2.000 m di Selat Makassar). Saat zaman es laut turun 120 m pun tempat ini tetap laut, jadi hewan darat tidak bisa menyeberang.\n🌏 Bonus: Australia masih terus bergerak ke utara ±7 cm per tahun!\nℹ️ Sulawesi, Nusa Tenggara & Maluku disebut Wallacea, zona peralihan yang hewannya campuran dan banyak yang endemik (anoa, tarsius, komodo).\n\nKotamu di sisi Asia atau Australia? Tulis nama kotamu di komentar 👇\nTag temanmu yang tinggal di seberang garis 😄\n\n📚 Sumber: A. R. Wallace, The Malay Archipelago (1869); kedalaman laut NOAA ETOPO1; zaman es −120 m (Voris 2000); pergerakan Australia: Geoscience Australia (GDA2020).\n\n#gariswallace #faktaunik #indonesia #peta #hewan #bali #lombok #edukasi #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/p06-garis-wallace.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/p06-garis-wallace.jpg",
+   "detik": 34,
+   "mb": 42.1,
+   "sha1": "c869782bd55b0a60efd00e76a46834e6ebd2c03d",
+   "versi": 1,
+   "catatan": "Peta P06 (Garis Wallace): unggah LANGSUNG sebagai Reel ±18.00–18.30 atau ±11.30; sematkan komentar dari komentar_sematkan.txt (provinsi per sisi); komentar = nama kota; cek insight 24 jam",
+   "ditambah": "2026-10-30"
+  },
+  {
    "id": "p05-kerumunan",
    "judul": "Semua orang Indonesia muat di SINI?! 😱👥",
    "kategori": "Peta Seru",
@@ -255,5 +269,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-10-30T08:47:20+07:00"
+ "diperbarui": "2026-10-30T10:21:18+07:00"
 }
