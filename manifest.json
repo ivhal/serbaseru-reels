@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "p08-gaji-umr",
+   "judul": "Kerjaan sama, UMR beda 2,5 kali! 😱💰",
+   "kategori": "Peta Seru",
+   "deskripsi": "Kerjaan sama, UMR beda 2,5 kali! 😱💰\n\nPeta UMR (UMK) 2026 di seluruh Pulau Jawa (119 kabupaten/kota):\n🥇 Tertinggi: Kota Bekasi Rp5.992.931 (bahkan di atas UMP Jakarta Rp5.729.876!)\n📉 Terendah: Banjarnegara Rp2.327.813\n🟥 Jawa Tengah + Jogja: 38 dari 40 kab/kota masih di bawah Rp3 juta\n\nJadi kamu pilih mana?\n💰 TIM GAJI BESAR (tapi macet)\n😌 TIM HIDUP SANTAI (gaji pas-pasan)\n\n👇 Tulis UMR kotamu + tim kamu di komentar!\n🏷️ Tag temanmu yang lagi cari kerja\n📌 Daftar UMR terlengkap ada di komentar yang disematkan\n\nℹ️ UMR/UMK = upah MINIMUM, bukan rata-rata gaji. Perusahaan boleh membayar di atasnya.\n📚 Sumber: UMK 2026 sesuai SK gubernur (diberitakan Beritasatu, Kompas, detik, Desember 2025); UMP DKI Jakarta. Batas wilayah: BPS/OCHA via geoBoundaries (CC BY 3.0 IGO). Peta relief NOAA ETOPO1.\n\n#umr2026 #umk2026 #gaji #kerja #lokerjawa #bekasi #jakarta #jawatengah #faktaunik #peta #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/p08-gaji-umr.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/p08-gaji-umr.jpg",
+   "detik": 31,
+   "mb": 19.1,
+   "sha1": "19199a383a0013abbd21252be75662aeabe98f78",
+   "versi": 1,
+   "catatan": "BARU 1-11 (debat: tim gaji besar vs hidup santai). Saran unggah ±12.30. Sematkan komentar_sematkan.txt (UMK 10 tertinggi/terendah + UMP luar Jawa) & balas komentar UMR kota secepatnya.",
+   "ditambah": "2026-11-01"
+  },
+  {
    "id": "p07-kota-terpanas",
    "judul": "Kota terpanas Indonesia BUKAN Palu! 🥵🔥",
    "kategori": "Peta Seru",
@@ -563,5 +577,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-10-31T23:47:45+07:00"
+ "diperbarui": "2026-11-01T04:33:59+07:00"
 }
