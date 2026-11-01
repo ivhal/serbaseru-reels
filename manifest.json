@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "p09-air-surut",
+   "judul": "Kalau air laut tiba-tiba surut, LARI! 🌊🏃",
+   "kategori": "Peta Seru",
+   "deskripsi": "Kalau air laut tiba-tiba surut, LARI! 🌊🏃 Jangan malah ambil ikannya!\n\n⚠️ Tanda alam tsunami (BMKG/BNPB):\n1️⃣ Gempa kuat & lama\n2️⃣ Air laut tiba-tiba surut\n3️⃣ Terdengar gemuruh dari arah laut\n\n✅ Ingat RUMUS 20-20-20:\nGempa terasa ≥20 detik → dalam 20 menit → naik ke tempat setinggi ≥20 meter (bukit / gedung tinggi). Jangan tunggu sirene!\n\n🙏 Tahun 2004, warga Pulau Simeulue selamat karena tradisi lisan \"smong\" (air laut surut = lari ke bukit). Dari ±78.000 warga, korbannya 7 orang.\n\n📲 KIRIM ke keluarga & teman yang tinggal dekat pantai. Info ini bisa menyelamatkan nyawa.\n📍 Kotamu dekat laut? Tulis nama kotamu di komentar 👇\n\n📚 Sumber: BMKG & BNPB (tanda tsunami, 20-20-20); McAdoo dkk., Earthquake Spectra 2006 (smong Simeulue); palung dari data NOAA ETOPO1. Video ini edukasi kesiapsiagaan, bukan prediksi gempa.\n\n#tsunami #mitigasibencana #bmkg #siagabencana #pantai #aceh #simeulue #smong #faktaunik #edukasi #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/p09-air-surut.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/p09-air-surut.jpg",
+   "detik": 33,
+   "mb": 19.6,
+   "sha1": "944e04494cf1f14f25e147a252a0c705414feb36",
+   "versi": 1,
+   "catatan": "BARU 1-11 (keselamatan → pemicu BAGIKAN). Saran unggah ±05.30. Kabari Claude untuk komentar sematan (komentar_sematkan.txt), lalu sematkan dari HP; bagikan juga ke 2–3 grup FB yang relevan.",
+   "ditambah": "2026-11-01"
+  },
+  {
    "id": "p08-gaji-umr",
    "judul": "Kerjaan sama, UMR beda 2,5 kali! 😱💰",
    "kategori": "Peta Seru",
@@ -577,5 +591,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-01T04:33:59+07:00"
+ "diperbarui": "2026-11-01T12:34:22+07:00"
 }
