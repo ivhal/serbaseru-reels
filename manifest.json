@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "p11-bumi-berhenti",
+   "judul": "Bumi berhenti berputar, Indonesia jadi BENUA! 🌍😱",
+   "kategori": "Peta Seru",
+   "deskripsi": "Kalau Bumi berhenti berputar, Indonesia jadi BENUA! 🌍😱\n\nBumi berputar ±1.670 km/jam di khatulistiwa, jadi air laut \"menumpuk\" di tengah.\nKalau putarannya berhenti, air kabur ke kutub dan laut di Indonesia turun hampir 7 km!\n🌏 Sumatra, Jawa, Kalimantan sampai Australia nyambung jadi satu benua raksasa\n🏞️ Laut Banda tinggal danau kecil di palung terdalam\n⛰️ Jakarta jadi ±6.900 m di atas laut, lebih tinggi dari Puncak Jaya (4.884 m)!\n\nKamu mau tinggal di benua baru ini? Tulis YA atau NGGAK 👇\n📲 Kirim ke temanmu yang suka mikir aneh 🤯\n\n📚 Simulasi Serba Seru: perubahan muka laut ≈ 21,4 km × (1/3 − sin² lintang) (pepatan Bumi WGS84), relief NOAA ETOPO1; mirip simulasi Esri (2008). Tenang, Bumi tidak akan berhenti tiba-tiba 😄\n\n#bagaimanajika #faktaunik #bumi #indonesia #peta #sains #edukasi #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/p11-bumi-berhenti.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/p11-bumi-berhenti.jpg",
+   "detik": 35,
+   "mb": 49.0,
+   "sha1": "035586baedbfec80e93dbafa15dcb62a923a4eb1",
+   "versi": 1,
+   "catatan": "BARU 2-11. Lolos gerbang-reels-kuat. Genre \"bagaimana jika Bumi\" (15 jt). Saran ±12.00 (P10 di 05.30). Kabari Claude untuk komentar sematan (angka per kota).",
+   "ditambah": "2026-11-02"
+  },
+  {
    "id": "p10-jalan-kaki",
    "judul": "Jalan kaki 28 tahun, akhirnya pulang! 🚶🏠",
    "kategori": "Peta Seru",
@@ -605,5 +619,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-02T15:50:44+07:00"
+ "diperbarui": "2026-11-02T20:18:14+07:00"
 }
