@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "p10-jalan-kaki",
+   "judul": "Jalan kaki 28 tahun, akhirnya pulang! 🚶🏠",
+   "kategori": "Peta Seru",
+   "deskripsi": "Jalan kaki 28 tahun, akhirnya pulang! 🚶🏠🥹\n\nTahun 1998, Karl Bushby (mantan tentara Inggris) berangkat dari ujung Chili dengan 2 aturan:\n❌ tanpa kendaraan bermotor\n❌ tidak boleh pulang sebelum sampai\n\n🌴 Menembus hutan Darién, dipenjara 18 hari di Panama\n🧊 Menyeberangi Selat Bering di atas es, lalu ditahan tentara Rusia\n🏊 Berenang 288 km di Laut Kaspia (31 hari) & berenang menyeberangi Selat Inggris\n📏 Rutenya sekitar 58.000 km, kira-kira 11 kali Sabang–Merauke!\n\nAwal November 2026 dia akhirnya tiba di kampung halamannya, Hull, Inggris. 👏\n\nMenurutmu dia HEBAT 👏 atau NEKAT 🤯? Tulis di komentar 👇\n📲 Kirim ke temanmu yang malas jalan 😄\n\n📚 Sumber: Wikipedia \"Karl Bushby\"; berita Hull City Council & Hello Rayo (2-11-2026). Rute di video adalah perkiraan. Citra Bumi: NASA Blue Marble.\n\n#karlbushby #jalankaki #kisahnyata #faktaunik #petadunia #inspirasi #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/p10-jalan-kaki.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/p10-jalan-kaki.jpg",
+   "detik": 38,
+   "mb": 35.1,
+   "sha1": "41dc50dd6d955c3e63568c13243d4a4a6a49473d",
+   "versi": 1,
+   "catatan": "BARU 2-11. Format perjalanan-di-peta (acuan 5,97 jt). UNGGAH SETELAH Claude konfirmasi Karl Bushby sudah tiba di Hull (cek 2-11 19.43 WIB). Saran ±05.30. Kabari Claude untuk komentar sematan.",
+   "ditambah": "2026-11-02"
+  },
+  {
    "id": "p09-air-surut",
    "judul": "Kalau air laut tiba-tiba surut, LARI! 🌊🏃",
    "kategori": "Peta Seru",
@@ -591,5 +605,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-01T12:34:22+07:00"
+ "diperbarui": "2026-11-02T15:50:44+07:00"
 }
