@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "p12-pembunuh-nomor-1",
+   "judul": "Pembunuh nomor 1 ada di kamarmu! 🦟😱",
+   "kategori": "Peta Seru",
+   "deskripsi": "Pembunuh manusia nomor 1 ada di kamarmu! 🦟😱\n\nBukan hiu, bukan buaya, bukan ular. Hitungan kematian manusia per tahun di dunia:\n🦈 Hiu: kurang dari 10 orang\n🐊 Buaya: sekitar 1.000 orang (dan Indonesia juara dunia serangan buaya: 179 serangan, 92 tewas di 2024)\n🐍 Ular: 81 ribu sampai 138 ribu orang\n🦟 NYAMUK: malaria saja hampir 600 ribu orang!\n\nDi Indonesia, DBD tahun 2024 lebih dari 210 ribu kasus. Ingat, nyamuk DBD menggigit PAGI sampai SORE, bukan cuma malam.\n✅ Lakukan 3M Plus: kuras & tutup tempat air, daur ulang barang bekas, pakai lotion anti nyamuk / kelambu.\nDemam tinggi 2–3 hari? Segera periksa ke puskesmas/dokter.\n\nPernah kena DBD? Tulis PERNAH atau BELUM 👇\n📲 Kirim ke keluarga yang suka tidur siang 😴\n\n📚 Sumber: ISAF 2024, Gates Notes, WHO (Snakebite & World Malaria Report 2024), CrocAttack via AP 2025, Kemenkes 2024 (s.d. minggu ke-43).\n\n#faktaunik #nyamuk #dbd #demamberdarah #hewan #indonesia #edukasi #kesehatan #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/p12-pembunuh-nomor-1.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/p12-pembunuh-nomor-1.jpg",
+   "detik": 36,
+   "mb": 30.1,
+   "sha1": "48473f3fa9af4d35afa145b3d073578985f672fd",
+   "versi": 1,
+   "catatan": "BARU 2-11. Lolos gerbang-reels-kuat (bukti YT + FB, anti-dobel dicek). Hitung mundur hiu→buaya→ular→NYAMUK + DBD Indonesia. Saran ±05.30 atau ±12.00. Kabari Claude untuk komentar sematan (peringkat).",
+   "ditambah": "2026-11-02"
+  },
+  {
    "id": "p11-bumi-berhenti",
    "judul": "Bumi berhenti berputar, Indonesia jadi BENUA! 🌍😱",
    "kategori": "Peta Seru",
@@ -619,5 +633,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-02T20:40:05+07:00"
+ "diperbarui": "2026-11-02T21:32:51+07:00"
 }
