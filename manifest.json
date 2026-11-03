@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "k01-cotton-bud",
+   "judul": "Kebiasaan sepele ini bikin dia kejang 😱",
+   "kategori": "Kasus Nyata 3D",
+   "deskripsi": "Kebiasaan sepele ini bikin dia kejang… dan ada NANAH di dekat otaknya 😱\n\nPria 31 tahun ini sering nyeri telinga kiri selama 5 tahun. Tiap gatal, dia bersihkan sendiri — dia pikir bersih berarti sehat. Sampai suatu hari dia kejang dan dilarikan ke rumah sakit. CT scan menemukan 2 kantong nanah di bawah selaput otaknya. Penyebabnya: ujung kapas COTTON BUD yang copot dan tertinggal di liang telinga.\n\n👂 Liang telinga membersihkan dirinya sendiri: kulitnya bergerak pelan ke luar membawa kotoran telinga (yang justru melindungi dari debu & kuman). Cotton bud malah mendorongnya makin dalam.\n✅ Cukup bersihkan daun telinga bagian luar.\n⚠️ Telinga terasa penuh, nyeri, atau keluar cairan? Periksa ke dokter THT, jangan dikorek sendiri.\n\nKamu masih pakai cotton bud? Jawab MASIH atau STOP di komentar 👇\n📲 Kirim ke keluarga yang hobi korek kuping!\n\n📚 Sumber: Charlton A, Janjua N, Rejali D. \"Cotton bud in external ear canal causing necrotising otitis externa and subdural abscess\". BMJ Case Reports 2019;12(3) (PMID 30846453). Pedoman AAO-HNS tentang kotoran telinga (2017).\nAnimasi ilustrasi kasus; bukan pengganti nasihat dokter.\n\n#kesehatan #telinga #cottonbud #faktamedis #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/k01-cotton-bud.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/k01-cotton-bud.jpg",
+   "detik": 91,
+   "mb": 55.7,
+   "sha1": "3e69b0bd0e685937833adc6e87e779a22c4d564d",
+   "versi": 1,
+   "catatan": "BARU 4-11. KHUSUS FB (konten kreator, BUKAN afiliasi — tanpa tag produk). Format kasus nyata 3D (acuan Paham Medis 354 rb/1 hari). Lolos gerbang FB 10/10 + gerbang-reels-kuat. Unggah LANGSUNG sebagai Reel ±12.00 atau ±19.00 WIB, sampul = sampul-reels.jpg. Kabari Claude saat tayang → komentar sematan (sumber BMJ + MASIH/STOP).",
+   "ditambah": "2026-11-04"
+  },
+  {
    "id": "a06-mini-kulkas",
    "judul": "Kulkas mini, pintunya cermin LED! ✨",
    "kategori": "Afiliasi",
@@ -705,5 +719,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-03T21:11:30+07:00"
+ "diperbarui": "2026-11-04T05:01:02+07:00"
 }
