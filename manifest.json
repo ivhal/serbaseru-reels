@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "k02-es-teh",
+   "judul": "Pria 56 tahun ini harus cuci darah 😱",
+   "kategori": "Kasus Nyata 3D",
+   "deskripsi": "Pria 56 tahun ini harus cuci darah… gara-gara minuman yang tiap hari kita pesan 😱🧊\n\n🍵 Dia minum 16 gelas es teh sehari (hampir 4 liter). Teh hitam kaya OKSALAT — di ginjal, oksalat + kalsium mengeras jadi kristal tajam yang menyumbat \"pipa\" penyaring.\n📈 Kreatinin naik hampir 4× dalam 7 bulan → gagal ginjal → cuci darah.\n\n✅ Teh boleh, tapi jangan gantikan air putih & jangan berliter-liter.\n🩺 Sering lemas tanpa sebab? Cek fungsi ginjal ke dokter.\n\n👇 Jawab jujur: kamu sehari berapa gelas es teh — 1 atau lebih dari 3?\n📲 Kirim ke teman yang tiap makan pasti pesan es teh!\n\nSumber: New England Journal of Medicine 2015 — \"A Case of Iced-Tea Nephropathy\".\n#esteh #ginjal #faktakesehatan #kasusnyata #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/k02-es-teh.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/k02-es-teh.jpg",
+   "detik": 82,
+   "mb": 44.0,
+   "sha1": "35c0c84d507c167a908997cfed452a7787a8ce00",
+   "versi": 1,
+   "catatan": "BARU 4-11. KHUSUS FB (konten kreator, tanpa produk). Kasus nyata NEJM 2015 (16 gelas es teh → cuci darah). Lulus gerbang FB 10/10 (LULUS_10.json) + gerbang pra-render angka. Unggah LANGSUNG sebagai Reel ±11.30–12.30 WIB (jam makan siang = jam pesan es teh), sampul = sampul-reels.jpg. Kabari Claude saat tayang → komentar sematan (sumber NEJM + 1 GELAS / >3 GELAS).",
+   "ditambah": "2026-11-04"
+  },
+  {
    "id": "k01-cotton-bud",
    "judul": "Kebiasaan sepele ini bikin dia kejang 😱",
    "kategori": "Kasus Nyata 3D",
@@ -719,5 +733,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-04T05:01:02+07:00"
+ "diperbarui": "2026-11-04T20:40:46+07:00"
 }
