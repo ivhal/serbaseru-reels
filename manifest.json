@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "k03-softlens",
+   "judul": "Korneanya bolong setelah bunyi pop 😱",
+   "kategori": "Kasus Nyata 3D",
+   "deskripsi": "Usap mata pakai handuk… lalu terdengar bunyi \"POP\" 😱👁️ Korneanya BOLONG — gara-gara kebiasaan yang mungkin kamu lakukan malam ini.\n\n🛌 Pria 59 tahun ini tidur pakai softlens selama 2 hari berburu. Kornea tidak punya pembuluh darah — oksigennya diambil langsung dari udara. Mata terpejam + tertutup lensa = kornea \"tercekik\", kuman masuk, lalu bocor.\n⚠️ Tidur pakai softlens menaikkan risiko infeksi mata 6–8 kali lipat. Dia harus transplantasi kornea darurat.\n\n✅ Selalu lepas softlens sebelum tidur — walau cuma tidur siang.\n🚫 Jangan bilas softlens & wadahnya pakai air keran.\n🩺 Mata merah & nyeri? Lepas softlens, langsung ke dokter mata.\n\n👇 Jujur: kamu PERNAH atau BELUM ketiduran pakai softlens?\n📲 Kirim ke teman yang suka pakai softlens!\n\nSumber: CDC (MMWR 2018) — Corneal Infections Associated with Sleeping in Contact Lenses.\n#softlens #kesehatanmata #faktakesehatan #kasusnyata #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/k03-softlens.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/k03-softlens.jpg",
+   "detik": 84,
+   "mb": 53.1,
+   "sha1": "fbd2432267797237b9be1c71d5d15aa7879f56a6",
+   "versi": 1,
+   "catatan": "BARU 5-11. KHUSUS FB (konten kreator, tanpa produk). Kasus nyata CDC MMWR 2018 (tidur pakai softlens → kornea bolong). Lulus gerbang pra-render angka (IK, handuk, kasur, lantai) + lembar detail + 4 animatik + QA final HD (LULUS_10.json). Unggah LANGSUNG sebagai Reel ±19.30–20.30 WIB (jam sebelum tidur = 'malam ini'), sampul = sampul-reels.jpg. Kabari Claude saat tayang → komentar sematan (sumber CDC + PERNAH/BELUM).",
+   "ditambah": "2026-11-05"
+  },
+  {
    "id": "k01-cotton-bud",
    "judul": "Kebiasaan sepele ini bikin dia kejang 😱",
    "kategori": "Kasus Nyata 3D",
@@ -719,5 +733,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-04T20:52:01+07:00"
+ "diperbarui": "2026-11-05T07:59:51+07:00"
 }
