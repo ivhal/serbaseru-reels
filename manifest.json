@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "k04-makanan-sisa",
+   "judul": "Makan spageti, tidur, tak pernah bangun lagi 😱",
+   "kategori": "Kasus Nyata 3D",
+   "deskripsi": "Makan spageti, tidur… lalu tak pernah bangun lagi 😱 Penyebabnya kebiasaan yang mungkin ada di dapurmu malam ini.\n\n🍝 Pemuda 20 tahun ini memanaskan spageti di microwave, makan, lalu berolahraga. Setengah jam kemudian pusing, sakit perut, mual, muntah berjam-jam. Paginya dia ditemukan sudah meninggal.\n🔬 Di sisa spagetinya ada 95 juta bakteri Bacillus cereus per gram. Spageti itu sudah 5 hari dibiarkan di dapur. Racunnya tahan panas — dipanaskan lagi pun tidak hilang.\n\n✅ Masukkan makanan matang ke kulkas paling lambat 2 jam (cuaca panas: 1 jam).\n🚫 Nasi dingin semalaman di meja? Jangan dimakan.\n🩺 Muntah hebat setelah makan? Segera ke dokter.\n\n👇 Jujur: nasi sisa kamu simpan di KULKAS atau dibiarkan di MEJA?\n📲 Kirim ke teman yang suka makan nasi semalam!\n\nSumber: Naranjo dkk., Journal of Clinical Microbiology 2011 (kasus nyata).\n#kasusnyata #kesehatan #nasisisa #faktakesehatan #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/k04-makanan-sisa.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/k04-makanan-sisa.jpg",
+   "detik": 66,
+   "mb": 48.7,
+   "sha1": "0c6a1b2af503de51406535c8a8bd0fc0bafd7f97",
+   "versi": 1,
+   "catatan": "BARU 6-11. KHUSUS FB (konten kreator, tanpa produk). Kasus nyata J Clin Microbiol 2011 (spageti 5 hari → Bacillus cereus), 65,7 dtk. Lulus gerbang pra-render angka + lembar detail + 4 animatik + QA final HD (LULUS_10.json). Unggah LANGSUNG sebagai Reel ±18.30–20.00 WIB (jam makan malam = 'malam ini'), sampul = sampul-reels.jpg. Kabari Claude saat tayang → komentar sematan (sumber + KULKAS/MEJA).",
+   "ditambah": "2026-11-06"
+  },
+  {
    "id": "a07-saluran-mampet",
    "judul": "Rambut segini bikin kamar mandi mampet! (kawat saluran) 😱",
    "kategori": "Afiliasi",
@@ -764,5 +778,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-06T03:04:31+07:00"
+ "diperbarui": "2026-11-06T05:27:46+07:00"
 }
