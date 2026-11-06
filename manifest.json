@@ -3,6 +3,23 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "a12-kerak-minyak-dapur",
+   "judul": "Minyak di dapurmu, sekali usap hilang! (Polki kitchen cleaner) ✨",
+   "kategori": "Afiliasi",
+   "deskripsi": "Minyak di dapurmu, sekali usap hilang! ✨🍳\n\n💦 Semprot → 🧽 usap pakai lap mikrofiber → noda minyak di kompor langsung keangkat\n🧱 Bisa buat kompor, meja dapur, sampai dinding keramik\n🚫 Lap pakai air doang? Minyaknya cuma geser\n\n🛒 Produk #10 ada di TAG video & LINK BIO 👆\n\nKompormu tim KINCLONG atau tim BERMINYAK? Tulis di komentar 👇\n📲 Kirim ke teman yang kompornya paling berminyak 😆\n\nVideo: POLKI · angka & foto: toko Polki (Lazada). Ikuti petunjuk & peringatan di label, simpan jauh dari jangkauan anak. Mengandung link afiliasi.\n\n#pembersihdapur #kerakminyak #tipsdapur #racunshopee #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/a12-kerak-minyak-dapur.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/a12-kerak-minyak-dapur.jpg",
+   "detik": 16,
+   "mb": 13.0,
+   "sha1": "c3705d3d3196225bd9cb1d93a6a097123b6b1c76",
+   "versi": 1,
+   "catatan": "BARU 6-11. AFILIASI 10/10 format 16,3 dtk — KHUSUS IG/TikTok (bukan FB). Tag IG: Tambahkan produk → Shopee Affiliate → Jelajahi → Cari 'polki kitchen cleaner' (cadangan 'pembersih minyak dapur polki'; botol KUNING-PINK 400 ml, bukan pembersih kulkas / 100 ml / refill). Posting langsung, saran 05.30–06.00 / 11.30–12.30. TikTok tahan sampai keranjang aktif. Link afiliasi etalase #10 menyusul OTOMATIS (antrian_link.json). Caption TikTok: caption_tiktok.txt.",
+   "ditambah": "2026-11-06",
+   "produk_kata_kunci": "polki kitchen cleaner",
+   "produk_no": "10",
+   "produk_nama": "POLKI Kitchen Cleaner 400 ml (semprotan pembersih minyak dapur)"
+  },
+  {
    "id": "a13-sikat-celah",
    "judul": "Sudut kamar mandimu hitam? Langsung keangkat! (sikat celah V) 😱✨",
    "kategori": "Afiliasi",
@@ -831,5 +848,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-06T06:57:10+07:00"
+ "diperbarui": "2026-11-06T07:02:25+07:00"
 }
