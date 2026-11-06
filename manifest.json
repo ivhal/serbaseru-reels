@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "k05-mobil-ac",
+   "judul": "Pintu terkunci dari dalam, dia meninggal di mobilnya 😱",
+   "kategori": "Kasus Nyata 3D",
+   "deskripsi": "Pintu terkunci dari dalam… dia meninggal di mobilnya sendiri 😱 Pembunuhnya tak terlihat, tak berbau, dan mungkin ada di mobilmu.\n\n🚗 Pria 26 tahun ini parkir dengan mesin menyala supaya AC tetap dingin, lalu tertidur. Pintu dan jendela tertutup rapat.\n🌅 Saat ditemukan, kunci masih ON, mesin mati, bensinnya habis. 46% darahnya terikat karbon monoksida (normalnya di bawah 3%).\n💨 Gasnya datang dari knalpotnya sendiri yang berkarat dan bocor, lalu masuk ke kabin lewat 4 lubang di lantai mobil.\n\n❌ Jangan tidur di mobil dengan mesin menyala.\n🔧 Periksa knalpot & lantai mobil di bengkel, setahun sekali.\n🚪 Pusing atau mengantuk di mobil? Matikan mesin, keluar, hirup udara segar.\n\n👇 Jujur: kamu PERNAH atau TIDAK tidur di mobil dengan mesin menyala?\n📲 Kirim ke teman yang suka tidur di mobil!\n\nSumber: Kumazawa dkk., Legal Medicine (Tokyo) 2000 (kasus nyata).\n#kasusnyata #keselamatan #mobil #karbonmonoksida #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/k05-mobil-ac.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/k05-mobil-ac.jpg",
+   "detik": 63,
+   "mb": 59.0,
+   "sha1": "833686a6266651f69169725f987fc754853346c0",
+   "versi": 1,
+   "catatan": "BARU 6-11 malam. KHUSUS FB (konten kreator, tanpa produk). Kasus nyata Legal Medicine (Tokyo) 2000: tidur di mobil mesin+AC menyala → CO dari knalpot berkarat lewat 4 lubang lantai, 63,2 dtk. Hook = tangan menekan kunci pintu (aksi). Lulus gerbang pra-render + QA final (LULUS_10.json). Unggah LANGSUNG sebagai Reel ±11.30–12.30 atau 18.30–20.00 WIB, sampul = sampul-reels.jpg. Kabari Claude saat tayang → komentar sematan (sumber + PERNAH/TIDAK).",
+   "ditambah": "2026-11-06"
+  },
+  {
    "id": "nona-n02-checkout-aneh",
    "judul": "[MISI no na · pakai sound IG] Isi checkout-an gue buat rumah… aneh-aneh banget 😭",
    "kategori": "Afiliasi",
@@ -1013,5 +1027,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-06T20:25:21+07:00"
+ "diperbarui": "2026-11-06T21:42:30+07:00"
 }
