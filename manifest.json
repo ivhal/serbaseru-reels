@@ -3,6 +3,23 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "a15-lampu-darurat",
+   "judul": "Mati lampu? Bohlam ini tetap nyala! (bohlam emergency) 😱💡",
+   "kategori": "Afiliasi",
+   "deskripsi": "Mati lampu? Bohlam ini tetap nyala! 😱💡\n\n🔋 Dipakai harian sebagai lampu biasa, baterainya ngecas sendiri\n💡 Listrik padam? Tetap menyala (varian 8W hingga 5 jam, menurut deskripsi toko resmi)\n🪝 Copot, pasang ke fitting gantung → langsung nyala tanpa kabel, bisa dibawa ke kamar anak / kamar mandi\n🚫 Musim hujan nggak perlu cari lilin lagi\n\n🛒 Produk #13 ada di TAG video & LINK BIO 👆 (cek harga & promo terbaru di sana)\n\nDi rumahmu sering mati lampu? Tulis SERING atau JARANG di komentar 👇\n📲 Kirim ke grup keluarga biar nggak gelap-gelapan lagi.\n\nVideo: kanal resmi Hannochs (bohlam GENIUS) · rating & terjual: Lazada & toko resmi Hannochs. Supaya menyala otomatis saat padam, saklar lampu harus tetap ON. Jangan dipasang di tempat yang kena air. Mengandung link afiliasi.\n\n#lampuemergency #matilampu #rumahtangga #racunshopee #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/a15-lampu-darurat.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/a15-lampu-darurat.jpg",
+   "detik": 17,
+   "mb": 13.2,
+   "sha1": "eebf9510d97a80e88fea7e1c7862dbeeb2c25376",
+   "versi": 1,
+   "catatan": "BARU 6-11. AFILIASI 10/10 format 16,7 dtk — KHUSUS IG/TikTok (bukan FB). Tag IG: Tambahkan produk → Shopee Affiliate → Jelajahi → Cari 'hannochs genius lampu emergency' (pilih bohlam GENIUS kemasan MERAH-PUTIH seperti di video, bukan Genius Ultra/EON; rating ≥4,8). Posting langsung, saran 17.30–19.00 (menjelang malam) / 05.30–06.00. TikTok tahan sampai keranjang aktif. Link afiliasi etalase #13 menyusul OTOMATIS (antrian_link.json); komisi % dicek saat tag. Caption TikTok: caption_tiktok.txt.",
+   "ditambah": "2026-11-06",
+   "produk_kata_kunci": "hannochs genius lampu emergency",
+   "produk_no": "13",
+   "produk_nama": "Bohlam emergency Hannochs GENIUS (tetap nyala saat mati lampu)"
+  },
+  {
    "id": "a14-keset-ajaib",
    "judul": "Airnya langsung hilang diserap! (keset diatomite 3D) 💧✨",
    "kategori": "Afiliasi",
@@ -886,5 +903,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-06T11:54:14+07:00"
+ "diperbarui": "2026-11-06T11:55:45+07:00"
 }
