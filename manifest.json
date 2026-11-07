@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "b07-sabun",
+   "judul": "Sabunmu dari MINYAK GORENG?! 😳 (Bongkar dari Nol #07)",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "Sabunmu itu dibuat dari MINYAK 😳 — padahal kerjanya ngusir minyak!\n\nMinyak (sawit, kelapa, bahkan jelantah) dimasak pakai soda api: satu molekul lemak terpotong jadi tiga molekul sabun + satu gliserin (saponifikasi). Molekul sabun itu kepalanya suka air, ekornya suka minyak — ekornya menancap ke minyak, minyaknya terkurung jadi bola kecil, lalu hanyut saat dibilas. Makanya cuci tangan pakai sabun, gosok minimal 20 detik!\n\n⚠️ Soda api (NaOH) berbahaya: bisa membakar kulit & mata, dan langsung panas kena air. Video ini menjelaskan cara kerjanya, BUKAN resep — jangan dicoba tanpa pendampingan ahli.\n\nHabis ini mau kita bongkar apa? Tulis di komentar 👇\nKirim ke temanmu yang cuci tangannya kilat 📲\n\nSumber: Science Notes 2026 (saponifikasi & misel), NIOSH Pocket Guide (soda api), Retnowati dkk. 2013 (J. Rekayasa Proses UGM), Imani dkk. 2025 (Indones. J. Chem. Res.), Puspitasari dkk. 2023 (J. Rekayasa Lingkungan — bank sampah Bantul), CDC (cuci tangan 20 detik), GAPKI via The Jakarta Post 2025 (sawit Indonesia 57 % dunia).\n#bongkardarinol #sabun #sains #carakerja #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/b07-sabun.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/b07-sabun.jpg",
+   "detik": 83,
+   "mb": 68.9,
+   "sha1": "fe25dbb8aee5c70d98cfbfdea60b1225aac1ed72",
+   "versi": 1,
+   "catatan": "BARU 7-11. SERI FB \"Bongkar dari Nol\" #07: kamu bikin sabun dari minyak (minyak goreng → tapi nggak nyampur air → soda api BAHAYA + panas sendiri → sarung tangan & kacamata → aduk → mikro: 1 lemak + 3 soda api = 3 sabun + 1 gliserin → mengental, dicetak → sisa soda api → diangin-anginkan ±4 minggu → aman → kok minyak bisa ngilangin minyak? kepala suka air, ekor suka minyak, misel → cuci tangan ≥20 dtk → sawit keras / kelapa berbusa, KOH sabun cair → bukti bank sampah Bantul bikin sabun dari jelantah → Indonesia 57 % sawit dunia), ±83 dtk. PENJELASAN, BUKAN RESEP (tanpa takaran, peringatan soda api di layar). COLD OPEN 1,2 dtk: BUSA MELEDAK di spons + BOOM + \"SABUNMU DARI / MINYAK GORENG?!\" (= sampul), lalu potong keras ke minyak dituang. Lulus gerbang pra-render + QA final (LULUS_10.json). Unggah LANGSUNG sebagai Reel 05.00–06.00 atau 11.00–13.00 WIB, sampul = sampul-reels.jpg. Kabari Claude saat tayang -> komentar sematan (pilih episode berikutnya + tim BATANG/CAIR + sumber). YouTube Kita Bongkar: jadwal diisi Claude utama (youtube-medis/b07_meta.json).",
+   "ditambah": "2026-11-08"
+  },
+  {
    "id": "b05-kertas",
    "judul": "Bukumu dari POHON ini?! 😳 (Bongkar dari Nol #05)",
    "kategori": "Bongkar dari Nol",
@@ -1111,5 +1125,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-07T23:26:38+07:00"
+ "diperbarui": "2026-11-08T04:26:29+07:00"
 }
