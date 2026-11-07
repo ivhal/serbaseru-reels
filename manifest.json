@@ -23,11 +23,11 @@
    "deskripsi": "Tempemu dibikin JAMUR ini 😳\n\nKedelai direbus, direndam semalaman, dikupas, lalu ditaburi ragi berisi spora jamur. Satu sampai dua hari di sekitar 30 °C, benang jamur putih mengikat kedelai jadi satu balok. Tapi kedelainya: 9 dari 10 karung masih impor!\n\nHabis ini mau kita bongkar apa? Tulis di komentar 👇\nKamu PERNAH atau BELUM makan sambal tumpang dari tempe semangit?\nKirim ke temanmu yang tiap hari makan tempe 📲\n\nSumber: UGM (fermentasi tempe), repositori IPB (tempe semangit), BPS 2024 & Bapanas (impor kedelai), UNESCO (nominasi Culture of Tempe 2026), Serat Centhini (±1814).\n#bongkardarinol #tempe #kedelai #carakerja #serbaseru",
    "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/b04-tempe.mp4",
    "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/b04-tempe.jpg",
-   "detik": 90,
-   "mb": 62.0,
-   "sha1": "e8657b381730f19455920777fd9fcd8cda5193a3",
-   "versi": 1,
-   "catatan": "BARU 7-11. SERI FB \"Bongkar dari Nol\" #04: kamu bikin tempe dari kedelai, rantai Tapi->Jadi (rebus+rendam, kulit ari, kuman, daun pisang/plastik ditusuk, rak ±30 °C 1-2 hari), benang jamur, semangit->sambal tumpang, Serat Centhini, 9/10 kedelai impor (BPS 2024), budaya tempe diajukan ke UNESCO, 90 dtk. Lulus gerbang pra-render + QA final (LULUS_10.json) + sampul 10/10. Unggah LANGSUNG sebagai Reel di slot seri (mis. 12.00 WIB), sampul = sampul-reels.jpg. Sidang UNESCO 30 Nov-5 Des 2026: bila budaya tempe sudah ditetapkan, tambah 1 kalimat di caption. Kabari Claude saat tayang -> komentar sematan (topik berikutnya + PERNAH/BELUM sambal tumpang).",
+   "detik": 91,
+   "mb": 63.4,
+   "sha1": "89decbdec7454909095bcfbc34f9d8d2f35d9d2d",
+   "versi": 2,
+   "catatan": "v2 7-11 15.20 (COLD OPEN 1,2 dtk: benang jamur menjalar mengikat kedelai + dentum + \"TEMPEMU / DIBIKIN JAMUR?!\", lalu potong keras ke tangan menabur ragi; menggantikan v1). SERI FB \"Bongkar dari Nol\" #04: kamu bikin tempe dari kedelai, rantai Tapi->Jadi, benang jamur, semangit->sambal tumpang, Serat Centhini, 9/10 kedelai impor (BPS 2024), budaya tempe diajukan ke UNESCO, 91 dtk. Lulus gerbang pra-render + QA final v2 (LULUS_10.json) + sampul 10/10. Unggah LANGSUNG sebagai Reel di slot seri, sampul = sampul-reels.jpg. Sidang UNESCO 30 Nov-5 Des 2026: bila budaya tempe sudah ditetapkan, tambah 1 kalimat di caption. Kabari Claude saat tayang -> komentar sematan.",
    "ditambah": "2026-11-07"
   },
   {
@@ -1069,5 +1069,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-07T15:06:08+07:00"
+ "diperbarui": "2026-11-07T15:22:11+07:00"
 }
