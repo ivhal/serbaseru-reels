@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "b06-kerupuk",
+   "judul": "Kerupukmu dari SINGKONG ini 😳 (Bongkar dari Nol #06)",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "Kerupukmu itu dari SINGKONG ini 😳 — dan dia mekar karena AIR, bukan minyak!\n\nSisa air di dalam irisan kerupuk mendadak jadi uap di minyak panas (volumenya membesar ±1.600 kali) dan meniup adonan pati sampai mekar lebih dari 3 kali lipat. Buktinya, kerupuk melarat Cirebon cuma disangrai di pasir panas. Musim hujan begini, simpan di toples tertutup rapat biar nggak melempem!\n\nHabis ini mau kita bongkar apa? Tulis di komentar 👇\nKirim ke temanmu yang makan wajib pakai kerupuk 📲\n\nSumber: Koswara 2009 (Pengolahan Aneka Kerupuk, UNIMUS), Nugroho & Sukmawati 2020 (Manfish Journal), Siswantoro dkk. 2012 (Agritech UGM), Ulfah dkk. 2018 (J. Teknologi Pangan Undip), Mustafa 2015 (Agrointek), ANTARA 29 Mar 2022, Kementan 2025.\n#bongkardarinol #kerupuk #singkong #carakerja #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/b06-kerupuk.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/b06-kerupuk.jpg",
+   "detik": 87,
+   "mb": 66.9,
+   "sha1": "2e29c4ea93b9d5f0ac12e62bd29053f1aeee6a75",
+   "versi": 1,
+   "catatan": "BARU 7-11. SERI FB \"Bongkar dari Nol\" #06: kamu bikin kerupuk dari singkong (parut → endapkan jadi tapioka → air panas + uleni → kukus → didiamkan semalaman → iris 1–2 mm → jemur 2 hari / s.d. 5 hari musim hujan, sisakan air ±10 % → MEKAR karena AIR jadi uap ±1.600×, bukti kerupuk melarat Cirebon di pasir → melempem musim hujan → toples rapat; Lampung ±47 % singkong RI), 87 dtk. COLD OPEN 1,2 dtk: kerupuk mekar di minyak + BOOM + \"KERUPUKMU DARI / SINGKONG INI?!\" (= sampul), lalu potong keras ke tangan memarut. Lulus gerbang pra-render + QA final (LULUS_10.json). Unggah LANGSUNG sebagai Reel 05.00–06.00 atau 11.00–13.00 WIB, sampul = sampul-reels.jpg. Kabari Claude saat tayang -> komentar sematan (pilih episode berikutnya + tim toples/kaleng + sumber). YouTube Kita Bongkar: jadwal diisi Claude utama (youtube-medis/b06_meta.json).",
+   "ditambah": "2026-11-07"
+  },
+  {
    "id": "b02-gula",
    "judul": "Gulamu dari BATANG ini 😳 (Bongkar dari Nol #02)",
    "kategori": "Bongkar dari Nol",
@@ -1069,5 +1083,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-07T15:22:34+07:00"
+ "diperbarui": "2026-11-07T18:32:56+07:00"
 }
