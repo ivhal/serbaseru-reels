@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "b02-gula",
+   "judul": "Gulamu dari BATANG ini 😳 (Bongkar dari Nol #02)",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "Gulamu dari BATANG ini 😳\n\nAir tebu kalau direbus biasa malah gosong jadi karamel. Pabrik gula merebusnya di panci tertutup yang udaranya disedot — air mendidih cuma di sekitar 65 derajat! Lalu kristalnya diputar super kencang sampai sirup cokelatnya terlempar keluar. Tahun 1929, Jawa pengekspor gula terbesar kedua di dunia.\n\nHabis ini mau kita bongkar apa? Tulis di komentar 👇\nKirim ke temanmu yang suka ngeteh manis 📲\n\nSumber: laporan pabrik gula PTPN XI & PG Krebet Baru (Polije), repositori UPN Jatim, jurnal tetes tebu & ampas, NCKU/IIAS (ekspor gula Jawa 1929).\n#bongkardarinol #gula #tebu #carakerja #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/b02-gula.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/b02-gula.jpg",
+   "detik": 81,
+   "mb": 55.8,
+   "sha1": "d0022a414f05cd9b2f1a7dbc3ffa7597455f3422",
+   "versi": 1,
+   "catatan": "BARU 7-11. SERI FB \"Bongkar dari Nol\" #02: kamu bikin gula dari tebu (giling ≤1 hari → air kapur → panci vakum ±65 °C → bibit gula → diputar kencang), 81 dtk. Lulus gerbang pra-render + QA final (LULUS_10.json). Sampul 10/10 = sampul-reels.jpg (TEBU → GULA). Unggah LANGSUNG sebagai Reel ±05.30 atau ±12.00 WIB, jarak ≥6 jam dari B01. Kabari Claude saat tayang → komentar sematan (pilih episode berikutnya + sumber).",
+   "ditambah": "2026-11-07"
+  },
+  {
    "id": "b04-tempe",
    "judul": "Tempemu dibikin JAMUR ini 😳 (Bongkar dari Nol #04)",
    "kategori": "Bongkar dari Nol",
@@ -1055,5 +1069,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-07T15:00:50+07:00"
+ "diperbarui": "2026-11-07T15:06:08+07:00"
 }
