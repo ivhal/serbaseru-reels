@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "b03-garam",
+   "judul": "Garam dapurmu dari LAUT ini 😳 (Bongkar dari Nol #03)",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "Garam dapurmu dari LAUT ini 😳\n\nAir laut cuma sekitar 3 persen garam. Petani Madura mengalirkannya pelan-pelan dari petak ke petak sampai pekat 25 derajat Baume — tapi harus dipanen sebelum 29, kalau lewat ikut garam magnesium yang pahit! Sekali hujan, kristalnya larut lagi. Makanya Madura dijuluki Pulau Garam.\n\nHabis ini mau kita bongkar apa? Tulis di komentar 👇\nKirim ke temanmu yang orang Madura 📲\n\nSumber: jurnal KKP (3 → 25–29 °Bé), repositori UPN Jatim, studi garam Sampang, SNI 3556:2016 (KIO₃ ≥ 30 mg/kg), data produksi garam Madura 2015.\n#bongkardarinol #garam #madura #carakerja #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/b03-garam.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/b03-garam.jpg",
+   "detik": 78,
+   "mb": 36.9,
+   "sha1": "714590e0bd5ad90172221ebd57bcd12972ac524e",
+   "versi": 1,
+   "catatan": "BARU 7-11. SERI FB \"Bongkar dari Nol\" #03: kamu bikin garam dari air laut di Madura (petak ke petak → baume 25 °Bé → panen sebelum 29 °Bé → plastik hitam → musim kemarau → yodium ≥30 mg/kg), 78 dtk, HOOK cold open 1,2 dtk (kristal garam putih → petak di terik, BOOM di frame 0) lalu siraman air laut. Lulus gerbang pra-render + QA final (LULUS_10.json). Sampul 10/10 = sampul-reels.jpg (AIR LAUT → GARAM). Unggah LANGSUNG sebagai Reel ±05.30 atau ±12.00 WIB, jarak ≥6 jam dari reel lain. Kabari Claude saat tayang → komentar sematan (pilih episode berikutnya + sumber).",
+   "ditambah": "2026-11-07"
+  },
+  {
    "id": "b06-kerupuk",
    "judul": "Kerupukmu dari SINGKONG ini 😳 (Bongkar dari Nol #06)",
    "kategori": "Bongkar dari Nol",
@@ -1083,5 +1097,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-07T18:32:56+07:00"
+ "diperbarui": "2026-11-07T20:51:31+07:00"
 }
