@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "b01-genteng",
+   "judul": "Atap rumahmu dari LUMPUR ini 😳 (Bongkar dari Nol #01)",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "Atap rumahmu itu dari LUMPUR ini 😳\n\nTanah liat yang cuma dijemur bakal lembek lagi kena hujan — makanya genteng harus dibakar sampai ratusan derajat, pelan-pelan, biar nggak pecah. Di Jatiwangi, Majalengka, genteng dibikin kayak gini sejak 1905!\n\nHabis ini mau kita bongkar apa? Tulis di komentar 👇\nKirim ke temanmu yang orang Majalengka 📲\n\nSumber: ANTARA (6 Mar 2026), Republika (6 Mar 2026), repositori Undip & UMS, De Bonis dkk. 2017 (Ceramics International).\n#bongkardarinol #genteng #jatiwangi #carakerja #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/b01-genteng.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/b01-genteng.jpg",
+   "detik": 86,
+   "mb": 68.2,
+   "sha1": "003e33eea8d357a4e8b2e2326c1e439ed2f7e914",
+   "versi": 1,
+   "catatan": "BARU 7-11. SERI BARU FB \"Bongkar dari Nol\" #01 (niche permanen): kamu bikin genteng dari tanah liat, rantai Tapi->Jadi, 86 dtk. Lulus gerbang pra-render + QA final (LULUS_10.json). Unggah LANGSUNG sebagai Reel 12.00 atau 19.00 WIB, sampul = sampul-reels.jpg. Kabari Claude saat tayang -> komentar sematan (pilih episode berikutnya + sumber). YouTube Kita Bongkar 17.00.",
+   "ditambah": "2026-11-07"
+  },
+  {
    "id": "k05-mobil-ac",
    "judul": "Pintu terkunci dari dalam, dia meninggal di mobilnya 😱",
    "kategori": "Kasus Nyata 3D",
@@ -1027,5 +1041,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-06T21:42:30+07:00"
+ "diperbarui": "2026-11-07T10:17:28+07:00"
 }
