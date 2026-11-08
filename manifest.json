@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "b08-bakso",
+   "judul": "Baksomu KENYAL karena ES BATU?! 😳 (Bongkar dari Nol #08)",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "Baksomu kenyal ternyata karena ES BATU 😳🧊\n\nWaktu digiling, daging ikut memanas — kalau kepanasan, kenyalnya hilang. Makanya daging digiling bareng es batu (di penggilingan pasar pun begitu). Lalu garam menarik keluar protein daging bernama MIOSIN: adonan jadi lengket kayak lem. Pas direbus, miosin itu mengikat serpihan daging jadi satu, tapioka merekatkan & mengisi celahnya — jadilah bakso kenyal!\n\n💡 2 rahasia bakso kenyal:\n✔ adonan selalu DINGIN dari digiling sampai dibentuk\n✔ masak dulu di air panas yang BELUM mendidih (±60–70°C) sampai mengapung — air mendidih bikin bakso retak\n\nHabis ini mau kita bongkar apa? Tulis di komentar 👇\nKirim ke temanmu yang ngaku jago bikin bakso 📲\n\nSumber: Chakim dkk. 2013 & Arief dkk. 2012 (Animal Agriculture Journal, Undip), Ace & Supangat 2008 (J. Penyuluhan Pertanian STPP Bogor), Sujarwanta dkk. 2021 (Foods), Zahiruddin dkk. 2008 (Bul. Teknol. Hasil Perikanan IPB), detikJogja 2025, detikJateng 2025, GNFI 2022 & 2026.\n#bongkardarinol #bakso #sains #carakerja #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/b08-bakso.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/b08-bakso.jpg",
+   "detik": 79,
+   "mb": 61.1,
+   "sha1": "a3be2867da57bab390a27a473a8b59aaefd0481a",
+   "versi": 1,
+   "catatan": "BARU 8-11. SERI FB \"Bongkar dari Nol\" #08: kamu bikin bakso dari nol (giling daging sapi → kunci kenyal = es batu → tapi digiling memanas, kepanasan = kenyal hilang → masukin es batu, adonan dingin (penggilingan pasar pun begitu) → tapi daging giling belum menyatu → tabur garam: miosin tertarik keluar, adonan lengket kayak lem → tapioka biar makin kenyal → kepal & tekan, bola keluar → tapi air mendidih bikin retak → air panas ±60–70 °C → matang = mengapung → kok bisa kenyal? mikro: miosin mengikat serpihan daging, tapioka mengisi celah, es bantu garam larut → tips: adonan dingin + air belum mendidih → pedagang bakso Solo & Malang sampai Maluku & Kalimantan → Wonogiri \"Ibu Kota Mi Ayam Bakso\" (rekor MURI 5.555 porsi)), ±79 dtk. COLD OPEN 1,2 dtk: bakso BYUR ke panci beruap & mengapung + BOOM + \"BAKSOMU KENYAL / KARENA ES BATU?!\" (= sampul), lalu potong keras ke gilingan engkol. Lulus gerbang pra-render + QA final (LULUS_10.json). Unggah LANGSUNG sebagai Reel 05.00–06.00 atau 11.00–13.00 WIB, sampul = sampul-reels.jpg. Kabari Claude saat tayang -> komentar sematan (pilih episode berikutnya + tim URAT/HALUS + sumber). YouTube Kita Bongkar: jadwal diisi Claude utama (youtube-medis/b08_meta.json).",
+   "ditambah": "2026-11-08"
+  },
+  {
    "id": "a21-papan-tulis-lcd",
    "judul": "Anakmu hobi coret-coret? Sekali pencet, bersih! (papan tulis LCD 16 inci) ✏️✨",
    "kategori": "Afiliasi",
@@ -1197,5 +1211,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-08T07:05:33+07:00"
+ "diperbarui": "2026-11-08T10:17:55+07:00"
 }
