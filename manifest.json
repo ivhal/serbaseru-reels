@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "b09-chip",
+   "judul": "Chip HP-mu dari PASIR?! 😳 (Bongkar dari Nol #09)",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "Chip di HP-mu itu awalnya PASIR 😳 — iya, pasir kayak di pantai!\n\nPasir kuarsa dilebur bareng batu bara di tungku listrik ±2.000 °C sampai oksigennya lepas → jadi silikon. Lalu dimurnikan sampai cuma 1 atom asing per semiliar atom, ditarik jadi satu kristal raksasa (±100 kg), diiris tipis, dipoles kayak cermin, dan \"dicetak\" pakai cahaya lewat cetakan — lapis demi lapis, bisa sampai 100 lapis — di ruang yang udaranya ±10.000× lebih bersih dari udara luar. Hasilnya: miliaran saklar super kecil (transistor) yang nyala-mati jadi angka 1 dan 0. Satu chip seukuran kuku bisa berisi puluhan miliar transistor!\n\nDan pasir kuarsa ada di 23 provinsi Indonesia 🇮🇩\n\nHabis ini mau kita bongkar apa? Tulis di komentar 👇\nKirim ke temanmu yang baru ganti HP 📲\n\nSumber: Intel \"From Sand to Silicon\" (2009), PV Manufacturing UNSW (silikon metalurgi & 9N), ASML \"How microchips are made\" (100 lapis, debu, ruang bersih ±10.000×), IBM 2021 (chip seukuran kuku hingga 50 miliar transistor), Britannica (transistor = saklar 1/0), Kementerian ESDM via CNN Indonesia 2023 (pasir kuarsa di 23 provinsi), Kepmen ESDM 296.K/MB.01/MEM.B/2023 (kuarsa mineral kritis), The Jakarta Post 28-10-2026 (proyek semikonduktor Batam).\n#bongkardarinol #chip #semikonduktor #sains #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/b09-chip.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/b09-chip.jpg",
+   "detik": 86,
+   "mb": 75.5,
+   "sha1": "7705bab292fad22126652b785e10ad7575eac8f2",
+   "versi": 1,
+   "catatan": "BARU 8-11. SERI FB \"Bongkar dari Nol\" #09: kamu bikin chip HP dari pasir (sendok pasir kuarsa → tapi silikonnya nempel sama oksigen → lebur bareng batu bara ±2.000 °C di tungku listrik, oksigen kabur → tapi masih kotor ±98 % → dimurnikan 1 atom asing per semiliar → tapi butuh satu kristal utuh → biji kristal dicelup, ditarik pelan sambil diputar → batang kristal ±100 kg → diiris tipis, dipoles kayak cermin → tapi sirkuit terlalu kecil buat digambar → disorot cahaya lewat cetakan kayak stensil, sampai ±100 lapis → tapi 1 debu merusak chip → ruang bersih + baju serba putih, udara ±10.000× lebih bersih → kok pasir bisa jadi otak HP? miliaran saklar (transistor) nyala-mati = 1 dan 0 → dipotong ratusan keping, dibungkus → chip seukuran kuku berisi puluhan miliar transistor → pasir kuarsa ada di 23 provinsi Indonesia; layar: mineral kritis 2023 + proyek semikonduktor Batam US$500 juta Okt 2026), ±86 dtk. TANPA MEREK (tanpa nama/logo perusahaan chip/HP). COLD OPEN 1,2 dtk: LEMPENGAN PELANGI MENYEMBUR DARI PASIR + BOOM + \"CHIP HP-MU / DARI PASIR?!\" (= sampul), lalu potong keras ke sendok pasir. Topikal: peluncuran HP & laptop baru Nov 2026. Lulus gerbang pra-render + QA final (LULUS_10.json). Unggah LANGSUNG sebagai Reel 05.00–06.00 atau 11.00–13.00 WIB, sampul = sampul-reels.jpg. Kabari Claude saat tayang -> komentar sematan (pilih episode berikutnya + tim HP BARU/AWET + sumber). YouTube Kita Bongkar: jadwal diisi Claude utama (youtube-medis/b09_meta.json).",
+   "ditambah": "2026-11-08"
+  },
+  {
    "id": "b08-bakso",
    "judul": "Baksomu KENYAL karena ES BATU?! 😳 (Bongkar dari Nol #08)",
    "kategori": "Bongkar dari Nol",
@@ -1211,5 +1225,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-08T10:17:55+07:00"
+ "diperbarui": "2026-11-08T12:41:38+07:00"
 }
