@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "b11-kapal-selam",
+   "judul": "Kapal selam SENGAJA tenggelam?! 😳 Berani naik? (Bongkar dari Nol #11)",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "Kapal selam itu SENGAJA tenggelam 😳 — kamu yang minta, kita bongkar!\n\nTabung baja berisi udara malah ngapung. Jadi kapal selam punya tangki pemberat: buka katup, air laut masuk, kapal tenggelam; tiup udara bertekanan, airnya terdorong keluar, kapal muncul lagi. Di laut dalam tekanannya bisa 30 kali lipat — tabung kotak langsung penyok, makanya badan kapal dibikin bulat dari baja tebal. Dan kapal selam TNI AL, KRI Alugoro-405, dibangun di Surabaya 🇮🇩\n\nKamu berani naik kapal selam? Jawab BERANI atau NGGAK 👇\nKirim ke temanmu yang orang Surabaya 📲\n\nSumber: \"On Board a Submarine\" (ASC, Australia, 2021: tangki pemberat, udara bertekanan), NOAA (tekanan +1 atm tiap 10 m; sonar), Wikipedia \"Submarine hull\" (lambung tekan berpenampang lingkaran), Marine Insight (oksigen dari elektrolisis air, penyerap CO₂), ANTARA 27-1-2020 & Setkab (KRI Alugoro-405 dibangun di PT PAL Surabaya).\n#bongkardarinol #kapalselam #tnial #surabaya #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/b11-kapal-selam.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/b11-kapal-selam.jpg",
+   "detik": 62,
+   "mb": 30.0,
+   "sha1": "85fe6e3e016350d1a30d07abcf658d2e78e34358",
+   "versi": 1,
+   "catatan": "BARU 9-11 (v2, pelajaran retensi 9-11). SERI FB \"Bongkar dari Nol\" #11 — USULAN PENONTON YouTube (\"kapal selam gimana\" → caption & sematan \"kamu yang minta, kita bongkar\"): kamu bikin kapal selam dari nol (ngelas tabung baja raksasa → kapalmu justru harus tenggelam → TAPI tabung baja malah ngapung (5,4 dtk) → tangki pemberat: buka katup, air laut masuk → TAPI berat terus = nggak bisa naik (kandas di dasar) → tiup udara bertekanan, air terdorong keluar = MUNCUL + cipratan → TAPI makin dalam makin menekan: bisa ±30×, tabung kotak penyok → PERTANYAAN dtk 25: \"Kamu berani naik kapal selam? BERANI atau NGGAK\" → badan kapal BULAT dari baja tebal → kapal selam TNI AL juga dibangun begini di Surabaya (KRI Alugoro-405) → TAPI nggak bisa lihat jauh → sonar (bunyi mantul = jarak) → TAPI oksigen habis → oksigen dari air, CO₂ disaring → kok bisa diam melayang? berat kapal = berat air yang didorong → selamat + \"kirim ke temanmu yang orang Surabaya\"), ±62 dtk. TANPA MEREK. Tanpa Nanggala (hindari bingkai tragedi). COLD OPEN 1,2 dtk: KAPAL SELAM MENYELAM + SEMBURAN VENTILASI + BOOM + \"SENGAJA / TENGGELAM?!\" (= sampul). Lulus gerbang pra-render + QA final (LULUS_10.json). Unggah LANGSUNG sebagai Reel 05.30 (slot utama) atau uji ±17.00, sampul = sampul-reels.jpg. Kabari Claude saat tayang -> komentar sematan (baris 1 = BERANI/NGGAK, lalu pilih episode berikutnya + sumber). YouTube Kita Bongkar: jadwal diisi Claude utama (youtube-medis/b11_meta.json).",
+   "ditambah": "2026-11-09"
+  },
+  {
    "id": "b09-chip",
    "judul": "Chip HP-mu dari PASIR?! 😳 (Bongkar dari Nol #09)",
    "kategori": "Bongkar dari Nol",
@@ -1225,5 +1239,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-08T12:41:38+07:00"
+ "diperbarui": "2026-11-09T19:57:53+07:00"
 }
