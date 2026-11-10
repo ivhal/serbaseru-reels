@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "b12-pensil",
+   "judul": "Isi pensilmu SAUDARA BERLIAN?! 😳 2B atau HB? (Bongkar dari Nol #12)",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "Isi pensilmu itu SAUDARA BERLIAN 💎✏️ sama-sama karbon!\n\nPensil \"timah\" ternyata nggak ada timahnya sama sekali. Isinya grafit yang dicampur tanah liat, dipres jadi lidi, lalu dipanggang sekitar 1.000 °C supaya keras. Makin banyak grafit = makin hitam (B), makin banyak tanah liat = makin keras (H). Habis itu lidinya diapit dua papan kayu beralur kayak roti lapis, dipotong jadi beberapa pensil sekaligus, terus dicat.\n\nKamu dulu ujian LJK pakai 2B atau HB? Jawab di komentar 👇\nKirim ke temanmu yang dulu ujian pakai 2B 📲\nHabis ini mau kita bongkar apa? Tulis di komentar!\n\nSumber: Wikipedia \"Pensil\" & \"Grafit\" (ID), \"Pencil\" & \"Graphite\" (EN); Musgrave Pencil Co. (proses pabrik); suhu pembakaran ±980–1.200 °C (Popular Science 1949, Artists Network).\n#bongkardarinol #pensil #grafit #ljk #faktaunik #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/b12-pensil.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/b12-pensil.jpg",
+   "detik": 38,
+   "mb": 21.1,
+   "sha1": "38006fa68849540ad700e7f9a435741547506fcf",
+   "versi": 1,
+   "catatan": "BARU 10-11. REEL UJI 38 dtk (pengecualian pemilik 35–40 dtk) SERI FB \"Bongkar dari Nol\" #12: kamu bikin pensil dari nol (COLD OPEN: serutan meledak + pensil kuning + berlian berkilau + \"SAUDARA / BERLIAN?!\" = sampul → isi pensilmu saudara berlian, sama-sama karbon → pensil timah? nggak ada timahnya, isinya grafit → TAPI grafit murni lembek, cepat habis (5,55 dtk) → jadi campur tanah liat, dipres jadi lidi → TAPI lidi mentah rapuh, patah → jadi dipanggang ±1.000 °C → makin banyak grafit = B hitam, makin banyak tanah liat = H keras → PERTANYAAN dtk 22,9: \"Kamu dulu ujian LJK pakai 2B atau HB?\" (kartu poling + tombol 2B/HB) → TAPI tangan belepotan → jadi diapit kayu beralur kayak roti lapis → dipotong jadi beberapa pensil → dicat → jadi + \"Kirim ke temanmu yang dulu ujian pakai 2B!\" → LOOP mulus ke bingkai 0). TANPA MEREK. Lulus gerbang pra-render + QA final (LULUS_10.json, CP3 LULUS Claude utama). Unggah LANGSUNG sebagai Reel 11-11 05.30 (slot utama), sampul = sampul-reels.jpg. Kabari Claude saat tayang -> komentar sematan (baris 1 = 2B/HB, lalu pilih episode berikutnya + sumber).",
+   "ditambah": "2026-11-10"
+  },
+  {
    "id": "b10-tahu",
    "judul": "Tahumu dari SUSU KEDELAI?! 😳 (Bongkar dari Nol #10)",
    "kategori": "Bongkar dari Nol",
@@ -1253,5 +1267,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-09T21:44:52+07:00"
+ "diperbarui": "2026-11-10T16:27:46+07:00"
 }
