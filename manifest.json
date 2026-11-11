@@ -17,6 +17,20 @@
    "ditambah": "2026-11-11"
   },
   {
+   "id": "hp02-baterai",
+   "judul": "SERIAL HP DARI NOL · EP 2/6 — Baterai HP-mu dari ISI PENSIL?! 😳",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "HP DARI NOL #2 — Baterai HP-mu dari bahan ISI PENSIL 😳\n\nIsi pensil (grafit) jadi kutub minus baterai. Pembawa tenaganya litium: logam paling ringan di dunia, sampai bisa mengapung di air. Litium diambil dari air asin di bawah gurun, dipompa ke kolam, lalu dijemur matahari sekitar 1,5 tahun. Karena litium itu galak, dia \"dijinakkan\" bareng kobalt di kutub plus — dan Indonesia penghasil kobalt nomor 2 dunia! Kutub plus dan minus disekat plastik berpori yang lebih tipis dari rambut, semua lapisan digulung, direndam cairan, lalu disegel. Waktu ngecas, litium berenang ke grafit; waktu kamu main HP, dia pulang — aliran inilah yang menyalakan HP-mu ⚡\n\n⚠️ Baterai yang menggembung = tanda rusak. Jangan dipakai lagi.\n\nTapi tanpa layar, HP-mu cuma kotak gelap… Episode 3: LAYAR 📱 — tonton berurutan di tab Serial \"HP DARI NOL\".\n\nBaterai HP-mu sekarang berapa PERSEN? Tulis angkanya di komentar 👇\nKirim ke temanmu yang baterainya kembung 🔋\n\nSumber: Nobel Kimia 2019 (latar ilmiah baterai litium-ion), Royal Society of Chemistry (litium 0,534 g/cm³), Albemarle 10-K 2024 (kolam penguapan ±18–24 bulan), USGS Mineral Commodity Summaries 2025 (kobalt, data 2024), UL 2018 (sekat 7–25 µm).\n#serbaseru #bongkardarinol #hpdarinol #baterai #sains #edukasi",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/hp02-baterai.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/hp02-baterai.jpg",
+   "detik": 71,
+   "mb": 27.8,
+   "sha1": "1f550aac217cd4c4fa165ef215fc6554219626ac",
+   "versi": 1,
+   "catatan": "BARU 11-11 · SERIAL FB \"HP DARI NOL\" Episode 2/6 (tantangan serial FB US$500). 70,6 dtk, LULUS_10 + kunci final Claude utama (sha1 1f550aac). UNGGAH LANGSUNG sebagai Reel MINGGU 15-11 05.30 dari HP (SESUDAH EP1 tayang Jumat), sampul = sampul-reels.jpg, caption dari app, lalu TAMBAHKAN KE SERIAL \"HP DARI NOL\" sebagai episode 2. Kabari Claude saat tayang -> komentar sematan + bagikan ke grup.",
+   "ditambah": "2026-11-11"
+  },
+  {
    "id": "b12-pensil",
    "judul": "Isi pensilmu SAUDARA BERLIAN?! 😳 2B atau HB? (Bongkar dari Nol #12)",
    "kategori": "Bongkar dari Nol",
@@ -1281,5 +1295,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-11T09:43:52+07:00"
+ "diperbarui": "2026-11-11T13:10:23+07:00"
 }
