@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "hp01-chip",
+   "judul": "SERIAL HP DARI NOL · EP 1/6 — Chip HP-mu dari PASIR?! 😳",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "HP DARI NOL #1 — Chip di HP-mu dulunya PASIR 😳\n\nPasir kuarsa dilebur bareng batu bara ±2.000 °C sampai oksigennya kabur → tinggal silikon. Lalu dimurnikan sampai cuma 1 atom asing per 1 miliar atom, ditarik jadi satu kristal raksasa (±100 kg), diiris tipis, dipoles kayak cermin, dan \"dicetak\" pakai cahaya di ruang bersih. Hasilnya: puluhan miliar saklar super kecil (transistor) di dalam chip seukuran kuku!\n\nTapi tanpa baterai, otak HP-mu cuma pasir mati… Episode 2: BATERAI 🔋 — tonton berurutan di tab Serial \"HP DARI NOL\".\n\nHP pertamamu dulu KEYPAD atau LAYAR SENTUH? Jawab di komentar 👇\nKirim ke temanmu yang baru ganti HP 📲\n\nSumber: Intel \"From Sand to Silicon\" (2009), PV Manufacturing UNSW (silikon metalurgi & kemurnian 9N), ASML \"How microchips are made\", IBM 2021 (chip seukuran kuku hingga 50 miliar transistor), Britannica (transistor = saklar 1/0), Kementerian ESDM 2021 via CNN Indonesia 2023 (pasir kuarsa di 23 provinsi).\n#serbaseru #bongkardarinol #hpdarinol #chip #sains #edukasi",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/hp01-chip.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/hp01-chip.jpg",
+   "detik": 72,
+   "mb": 60.4,
+   "sha1": "181e8c0fe45f9a6a54612016bb21fbdea5002e8f",
+   "versi": 1,
+   "catatan": "BARU 11-11 · SERIAL FB \"HP DARI NOL\" Episode 1/6 (tantangan serial FB US$500: tiap episode ≥60 dtk & ≥10 rb tayangan memenuhi syarat). 71,8 dtk, LULUS_10 + kunci final Claude utama (sha1 181e8c0f). UNGGAH LANGSUNG sebagai Reel JUMAT 13-11 05.30 dari HP, sampul = sampul-reels.jpg, caption dari app. Sesudah tayang: buat serial dari HP (+ → Series / kartu \"Create a series\"), judul \"HP DARI NOL\", deskripsi \"Bongkar dari Nol: kita bikin HP dari pasir sampai bisa chat ke seberang laut. Tonton berurutan dari Episode 1.\", sampul serial 2:4 = https://ivhal.github.io/serbaseru-reels/sampul/serial-hp-dari-nol.jpg — lalu tambahkan episode ini. b09-chip JANGAN diunggah (EP1 ini versi potong ulangnya). Kabari Claude saat tayang -> komentar sematan + bagikan ke grup.",
+   "ditambah": "2026-11-11"
+  },
+  {
    "id": "b12-pensil",
    "judul": "Isi pensilmu SAUDARA BERLIAN?! 😳 2B atau HB? (Bongkar dari Nol #12)",
    "kategori": "Bongkar dari Nol",
@@ -1267,5 +1281,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-11T06:36:45+07:00"
+ "diperbarui": "2026-11-11T08:57:12+07:00"
 }
