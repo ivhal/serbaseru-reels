@@ -31,6 +31,20 @@
    "ditambah": "2026-11-11"
   },
   {
+   "id": "ja01-meerkat",
+   "judul": "SERIAL JAGOAN ALAM · EP 1 — Satpam ini ternyata EGOIS?! 😳 (meerkat)",
+   "kategori": "Jagoan Alam",
+   "deskripsi": "Satpam kecil ini ternyata EGOIS?! 😳\n\nMeerkat penjaga kelihatannya pahlawan: berdiri mengawasi langit saat kawanannya makan. Tapi penelitian menemukan dia paling sering berjaga saat sudah kenyang, memilih tempat terdekat ke lubang, dan biasanya kabur paling dulu.\n\nSisi kerennya: meerkat punya \"sekolah\" makan kalajengking — dari yang sudah mati, sengatnya dicabut, sampai yang utuh.\n\nMenurutmu dia PAHLAWAN atau cuma CARI AMAN? Tulis di komentar 👇\nKirim ke temanmu yang paling jago cari aman 📲\n\nSumber: Clutton-Brock dkk. (Science, 1999); Thornton & McAuliffe (Science, 2006).\nVideo kalajengking: Alan Couch (CC BY 3.0, Wikimedia Commons). Rekaman lain: Pexels.\n\n#jagoanalam #meerkat #faktahewan #faktaunik #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/ja01-meerkat.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/ja01-meerkat.jpg",
+   "detik": 65,
+   "mb": 62.4,
+   "sha1": "9037f02ee90d663cabbf5c25035ead42b656b17a",
+   "versi": 1,
+   "catatan": "BARU 11-11 malam · SERIAL UJI \"JAGOAN ALAM\" Episode 1 (rekaman asli + narasi; uji banding melawan serial HP DARI NOL untuk bonus serial FB US$500). 65,0 dtk, LULUS_10 + kunci final (sha1 9037f02e), suara disetujui pemilik. UNGGAH sebagai Reel SABTU 14-11 05.30 dari HP, sampul = sampul-reels.jpg, caption dari app. JANGAN dimasukkan ke serial HP DARI NOL. Kabari Claude saat tayang -> komentar sematan. Minggu 15-11 pagi: bandingkan angka 24 jam dengan HP dari Nol EP1/EP2; EP2 (bison) hanya dibuat bila serial ini menang.",
+   "ditambah": "2026-11-11"
+  },
+  {
    "id": "b12-pensil",
    "judul": "Isi pensilmu SAUDARA BERLIAN?! 😳 2B atau HB? (Bongkar dari Nol #12)",
    "kategori": "Bongkar dari Nol",
@@ -1295,5 +1309,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-11T21:37:11+07:00"
+ "diperbarui": "2026-11-11T22:22:10+07:00"
 }
