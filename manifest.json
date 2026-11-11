@@ -13,7 +13,7 @@
    "mb": 60.4,
    "sha1": "181e8c0fe45f9a6a54612016bb21fbdea5002e8f",
    "versi": 1,
-   "catatan": "BARU 11-11 · SERIAL FB \"HP DARI NOL\" Episode 1/6 (tantangan serial FB US$500: tiap episode ≥60 dtk & ≥10 rb tayangan memenuhi syarat). 71,8 dtk, LULUS_10 + kunci final Claude utama (sha1 181e8c0f). UNGGAH LANGSUNG sebagai Reel KAMIS 12-11 PAGI (pemilik: \"saya mau upload hp sekarang\"; uji A/B: Jumat 13-11 = Jagoan Alam #01) dari HP, sampul = sampul-reels.jpg, caption dari app. Sesudah tayang: buat serial dari HP (+ → Series / kartu \"Create a series\"), judul \"HP DARI NOL\", deskripsi \"Bongkar dari Nol: kita bikin HP dari pasir sampai bisa chat ke seberang laut. Tonton berurutan dari Episode 1.\", sampul serial 2:4 = https://ivhal.github.io/serbaseru-reels/sampul/serial-hp-dari-nol.jpg — lalu tambahkan episode ini. b09-chip JANGAN diunggah (EP1 ini versi potong ulangnya). Kabari Claude saat tayang -> komentar sematan + bagikan ke grup.",
+   "catatan": "BARU 11-11 · SERIAL FB \"HP DARI NOL\" Episode 1/6 (tantangan serial FB US$500: tiap episode ≥60 dtk & ≥10 rb tayangan memenuhi syarat). 71,8 dtk, LULUS_10 + kunci final Claude utama (sha1 181e8c0f). UNGGAH LANGSUNG sebagai Reel JUMAT 13-11 05.30 (uji A/B: Kamis 12-11 = Jagoan Alam #01 lebih dulu) dari HP, sampul = sampul-reels.jpg, caption dari app. Sesudah tayang: buat serial dari HP (+ → Series / kartu \"Create a series\"), judul \"HP DARI NOL\", deskripsi \"Bongkar dari Nol: kita bikin HP dari pasir sampai bisa chat ke seberang laut. Tonton berurutan dari Episode 1.\", sampul serial 2:4 = https://ivhal.github.io/serbaseru-reels/sampul/serial-hp-dari-nol.jpg — lalu tambahkan episode ini. b09-chip JANGAN diunggah (EP1 ini versi potong ulangnya). Kabari Claude saat tayang -> komentar sematan + bagikan ke grup.",
    "ditambah": "2026-11-11"
   },
   {
@@ -41,7 +41,7 @@
    "mb": 62.4,
    "sha1": "9037f02ee90d663cabbf5c25035ead42b656b17a",
    "versi": 1,
-   "catatan": "BARU 11-11 malam · SERIAL UJI \"JAGOAN ALAM\" Episode 1 (rekaman asli + narasi; uji banding melawan serial HP DARI NOL untuk bonus serial FB US$500). 65,0 dtk, LULUS_10 + kunci final (sha1 9037f02e), suara disetujui pemilik. UNGGAH sebagai Reel SABTU 14-11 05.30 dari HP, sampul = sampul-reels.jpg, caption dari app. JANGAN dimasukkan ke serial HP DARI NOL. Kabari Claude saat tayang -> komentar sematan. Minggu 15-11 pagi: bandingkan angka 24 jam dengan HP dari Nol EP1/EP2; EP2 (bison) hanya dibuat bila serial ini menang.",
+   "catatan": "UNGGAH KAMIS 12-11 PAGI (HARI INI, uji A/B vs HP DARI NOL EP1 Jumat). Buat serial \"JAGOAN ALAM\" lewat Create a series (kartu bonus); sampul serial 2:4 = https://ivhal.github.io/serbaseru-reels/sampul/serial-jagoan-alam.jpg ; aktifkan LABEL AI. BARU 11-11 malam · SERIAL UJI \"JAGOAN ALAM\" Episode 1 (rekaman asli + narasi; uji banding melawan serial HP DARI NOL untuk bonus serial FB US$500). 65,0 dtk, LULUS_10 + kunci final (sha1 9037f02e), suara disetujui pemilik. UNGGAH sebagai Reel SABTU 14-11 05.30 dari HP, sampul = sampul-reels.jpg, caption dari app. JANGAN dimasukkan ke serial HP DARI NOL. Kabari Claude saat tayang -> komentar sematan. Minggu 15-11 pagi: bandingkan angka 24 jam dengan HP dari Nol EP1/EP2; EP2 (bison) hanya dibuat bila serial ini menang.",
    "ditambah": "2026-11-11"
   },
   {
@@ -1309,5 +1309,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-12T05:21:36+07:00"
+ "diperbarui": "2026-11-12T05:39:25+07:00"
 }
