@@ -13,7 +13,7 @@
    "mb": 60.4,
    "sha1": "181e8c0fe45f9a6a54612016bb21fbdea5002e8f",
    "versi": 1,
-   "catatan": "BARU 11-11 · SERIAL FB \"HP DARI NOL\" Episode 1/6 (tantangan serial FB US$500: tiap episode ≥60 dtk & ≥10 rb tayangan memenuhi syarat). 71,8 dtk, LULUS_10 + kunci final Claude utama (sha1 181e8c0f). UNGGAH LANGSUNG sebagai Reel KAMIS 12-11 05.30 (dimajukan 11-11 malam) dari HP, sampul = sampul-reels.jpg, caption dari app. Sesudah tayang: buat serial dari HP (+ → Series / kartu \"Create a series\"), judul \"HP DARI NOL\", deskripsi \"Bongkar dari Nol: kita bikin HP dari pasir sampai bisa chat ke seberang laut. Tonton berurutan dari Episode 1.\", sampul serial 2:4 = https://ivhal.github.io/serbaseru-reels/sampul/serial-hp-dari-nol.jpg — lalu tambahkan episode ini. b09-chip JANGAN diunggah (EP1 ini versi potong ulangnya). Kabari Claude saat tayang -> komentar sematan + bagikan ke grup.",
+   "catatan": "BARU 11-11 · SERIAL FB \"HP DARI NOL\" Episode 1/6 (tantangan serial FB US$500: tiap episode ≥60 dtk & ≥10 rb tayangan memenuhi syarat). 71,8 dtk, LULUS_10 + kunci final Claude utama (sha1 181e8c0f). UNGGAH LANGSUNG sebagai Reel JUMAT 13-11 05.30 (uji A/B: Sabtu 14-11 = Jagoan Alam #01) dari HP, sampul = sampul-reels.jpg, caption dari app. Sesudah tayang: buat serial dari HP (+ → Series / kartu \"Create a series\"), judul \"HP DARI NOL\", deskripsi \"Bongkar dari Nol: kita bikin HP dari pasir sampai bisa chat ke seberang laut. Tonton berurutan dari Episode 1.\", sampul serial 2:4 = https://ivhal.github.io/serbaseru-reels/sampul/serial-hp-dari-nol.jpg — lalu tambahkan episode ini. b09-chip JANGAN diunggah (EP1 ini versi potong ulangnya). Kabari Claude saat tayang -> komentar sematan + bagikan ke grup.",
    "ditambah": "2026-11-11"
   },
   {
@@ -27,7 +27,7 @@
    "mb": 27.8,
    "sha1": "1f550aac217cd4c4fa165ef215fc6554219626ac",
    "versi": 1,
-   "catatan": "BARU 11-11 · SERIAL FB \"HP DARI NOL\" Episode 2/6 (tantangan serial FB US$500). 70,6 dtk, LULUS_10 + kunci final Claude utama (sha1 1f550aac). UNGGAH LANGSUNG sebagai Reel JUMAT 13-11 05.30 (serial tayang harian) dari HP (SESUDAH EP1 tayang Jumat), sampul = sampul-reels.jpg, caption dari app, lalu TAMBAHKAN KE SERIAL \"HP DARI NOL\" sebagai episode 2. Kabari Claude saat tayang -> komentar sematan + bagikan ke grup.",
+   "catatan": "BARU 11-11 · SERIAL FB \"HP DARI NOL\" Episode 2/6 (tantangan serial FB US$500). 70,6 dtk, LULUS_10 + kunci final Claude utama (sha1 1f550aac). UNGGAH LANGSUNG sebagai Reel MINGGU 15-11 05.30 BILA jalur HP menang uji A/B (keputusan Minggu ±05.00) dari HP (SESUDAH EP1 tayang Jumat), sampul = sampul-reels.jpg, caption dari app, lalu TAMBAHKAN KE SERIAL \"HP DARI NOL\" sebagai episode 2. Kabari Claude saat tayang -> komentar sematan + bagikan ke grup.",
    "ditambah": "2026-11-11"
   },
   {
@@ -69,7 +69,7 @@
    "mb": 63.3,
    "sha1": "caa4319936eda3f7128f83bac5a68a5deb892e39",
    "versi": 2,
-   "catatan": "v3 11-11 (tanpa tanya di tengah). UNGGAH RABU 18-11 05.30 (sesudah serial HP DARI NOL selesai). SERI FB \"Bongkar dari Nol\" #10: kamu bikin tahu dari kedelai (rendam kedelai → paradoks: tahu padat awalnya susu cair → tapi susu terkunci di dalam biji → giling bareng air, rebus sampai mendidih → tapi bubur penuh ampas → saring pakai kain, yang lolos susu kedelai → tapi tak jadi tahu tanpa penggumpal → tuang biang (air asam sisa kemarin) → menggumpal kayak awan → (v3 11-11: pertanyaan tengah DIHAPUS, tanya Sumedang/Kediri pindah ke caption + sematan) → tapi lembek → cetakan beralas kain + ditekan → balok → kok susu cair bisa padat? protein saling tolak, asam bikin bergandengan jadi jaring yang mengurung air → ±80 % tahu itu air → potong kotak-kotak, jadilah tahu → kirim ke temanmu orang Sumedang atau Kediri), ±59 dtk. TANPA MEREK. COLD OPEN 1,2 dtk: GUMPALAN TAHU MEKAR di susu panas + BOOM + \"TAHUMU DARI / SUSU KEDELAI?!\" (= sampul). Lulus gerbang pra-render + QA final (LULUS_10.json). Unggah LANGSUNG sebagai Reel utama 05.30 (slot kedua ±17.00, jarak ≥8 jam), sampul = sampul-reels.jpg. Kabari Claude saat tayang -> komentar sematan (baris 1 = pertanyaan TIM SUMEDANG/KEDIRI). YouTube Kita Bongkar: jadwal diisi Claude utama (youtube-medis/b10_meta.json).",
+   "catatan": "v3 11-11 (tanpa tanya di tengah). UNGGAH KAMIS 12-11 05.30 (HARI INI, pemanasan sebelum serial). SERI FB \"Bongkar dari Nol\" #10: kamu bikin tahu dari kedelai (rendam kedelai → paradoks: tahu padat awalnya susu cair → tapi susu terkunci di dalam biji → giling bareng air, rebus sampai mendidih → tapi bubur penuh ampas → saring pakai kain, yang lolos susu kedelai → tapi tak jadi tahu tanpa penggumpal → tuang biang (air asam sisa kemarin) → menggumpal kayak awan → (v3 11-11: pertanyaan tengah DIHAPUS, tanya Sumedang/Kediri pindah ke caption + sematan) → tapi lembek → cetakan beralas kain + ditekan → balok → kok susu cair bisa padat? protein saling tolak, asam bikin bergandengan jadi jaring yang mengurung air → ±80 % tahu itu air → potong kotak-kotak, jadilah tahu → kirim ke temanmu orang Sumedang atau Kediri), ±59 dtk. TANPA MEREK. COLD OPEN 1,2 dtk: GUMPALAN TAHU MEKAR di susu panas + BOOM + \"TAHUMU DARI / SUSU KEDELAI?!\" (= sampul). Lulus gerbang pra-render + QA final (LULUS_10.json). Unggah LANGSUNG sebagai Reel utama 05.30 (slot kedua ±17.00, jarak ≥8 jam), sampul = sampul-reels.jpg. Kabari Claude saat tayang -> komentar sematan (baris 1 = pertanyaan TIM SUMEDANG/KEDIRI). YouTube Kita Bongkar: jadwal diisi Claude utama (youtube-medis/b10_meta.json).",
    "ditambah": "2026-11-09"
   },
   {
@@ -1309,5 +1309,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-11T22:22:10+07:00"
+ "diperbarui": "2026-11-12T04:40:56+07:00"
 }
