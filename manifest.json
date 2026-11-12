@@ -73,6 +73,20 @@
    "ditambah": "2026-11-12"
   },
   {
+   "id": "hp06-sinyal",
+   "judul": "SERIAL HP DARI NOL · EP 6/6 (FINAL) — Chat-mu lewat DASAR LAUT?! 😳",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "HP DARI NOL #6 (FINAL) — Chat-mu bisa lewat DASAR LAUT 🌊😳\n\nKamu ketik \"P\" → HP mengubahnya jadi gelombang radio → ditangkap menara terdekat → dioper ke serat kaca setipis rambut (bahannya silika, sama kayak pasir di Episode 1!) → pesanmu melesat jadi kedipan cahaya. Karena Indonesia negara kepulauan, kabelnya ditenggelamkan ke dasar laut: Palapa Ring panjangnya sekitar 13.000 km (darat + laut). Dekat pantai kabel dibungkus baja dan dikubur, karena musuh utamanya jangkar kapal & jaring ikan — bukan hiu: gigitan ikan tercatat NOL kerusakan (2007–2014). Di laut dalam kabelnya cuma segede selang taman, tapi totalnya lebih dari 1,5 juta km, dan hampir semua data antarbenua lewat kabel ini — hampir nggak pernah lewat satelit 🛰️❌\n\nSelamat, kamu udah bikin HP dari nol: pasir → chip, isi pensil → baterai, garam → layar, magnet → kamera, tanah merah → casing, dan sekarang SINYAL 📶✓\n\nTapi HP lamamu di laci… ternyata ada emasnya ✨ Emasnya berapa? Jawabannya di komentar yang disematkan 📌 — dan tonton serialnya dari Episode 1 di tab Serial \"HP DARI NOL\".\n\nSehari kamu chat berapa orang? Tulis angkanya di komentar 👇\nKirim ke temanmu yang chat-nya cuma \"P\" 😆\n\nSumber: TeleGeography (2023: >99% trafik data antarbenua lewat kabel laut · FAQ kabel laut: serat setipis rambut, kabel laut dalam segede selang taman, 2/3 gangguan karena jangkar & kapal ikan, gigitan ikan termasuk hiu 0 gangguan 2007–2014, >1,5 juta km kabel per awal 2026) · Kominfo 2019 via CNN Indonesia (Palapa Ring ±13.000 km darat & laut) · AMTA (HP ↔ menara lewat gelombang radio daya rendah) · Ericsson Microwave Outlook 2023 (jaringan penghubung menara) · paten serat kaca silika Corning US 3,659,915 (1972) · UUD 1945 Pasal 25A · US EPA (logam berharga dari HP bekas) · peta: Natural Earth (domain publik).\n#serbaseru #bongkardarinol #hpdarinol #kabelbawahlaut #sains #edukasi",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/hp06-sinyal.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/hp06-sinyal.jpg",
+   "detik": 72,
+   "mb": 41.9,
+   "sha1": "14867fb2ff6fbd6474ca97aa133c285029e3650f",
+   "versi": 1,
+   "catatan": "BARU 12-11 · SERIAL FB \"HP DARI NOL\" Episode 6/6 FINAL. 72,1 dtk, LULUS_10 + kunci final Claude utama (sha1 14867fb2). UNGGAH 05.30 SESUDAH EP5 tayang (usulan Rabu 18-11), label AI ON, tambahkan ke serial sebagai episode 6. Komentar sematan berisi JAWABAN emas (US EPA) — wajib diketik Claude begitu tayang.",
+   "ditambah": "2026-11-12"
+  },
+  {
    "id": "ja01-meerkat",
    "judul": "SERIAL JAGOAN ALAM · EP 1 — Satpam ini ternyata EGOIS?! 😳 (meerkat)",
    "kategori": "Jagoan Alam",
@@ -1351,5 +1365,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-12T11:39:48+07:00"
+ "diperbarui": "2026-11-12T13:04:58+07:00"
 }
