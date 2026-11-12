@@ -31,6 +31,20 @@
    "ditambah": "2026-11-11"
   },
   {
+   "id": "hp03-layar",
+   "judul": "SERIAL HP DARI NOL · EP 3/6 — Layar HP-mu DIRENDAM GARAM?! 😳",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "HP DARI NOL #3 — Layar HP-mu DIRENDAM GARAM 😳\n\nLayar HP itu jutaan titik merah, hijau, biru. Nyalanya dicampur jadi semua warna, dan tiap titik punya saklar mini sendiri: transistor, persis seperti di chip Episode 1. Di atasnya ada garis listrik super tipis yang tembus pandang. Jarimu menghantar listrik, jadi waktu kamu sentuh, listriknya berubah dan HP tahu titik mana yang kamu sentuh (makanya sarung tangan tebal bikin layar cuek 🧤). Semua lapisan itu rapuh, jadi ditutup kaca yang juga dari pasir. Supaya nggak gampang pecah, kacanya direndam garam kalium yang meleleh, panasnya sekitar 400 °C. Kalium yang gendut menyerobot tempat natrium yang kurus, permukaan kaca jadi berdesakan, dan retak susah masuk 💪\n\nOrang Indonesia menatap layar HP sekitar 6 jam sehari, tercatat paling lama di dunia (data 2023) 📱\n\n⚠️ Kaca yang diperkuat itu SUSAH pecah, bukan ANTI pecah. Tetap pakai casing dan pelindung layar.\n\nTapi tanpa kamera, HP-mu masih buta… Episode 4: KAMERA 📷 — tonton berurutan di tab Serial \"HP DARI NOL\".\n\nLayar HP-mu pernah retak? Jawab PERNAH atau BELUM di komentar 👇\nKirim ke temanmu yang layarnya retak terus 📲\n\nSumber: Svenson dkk. 2016, Frontiers in Materials (rendaman garam kalium cair 370–450 °C), paten kaca layar HP US 8,312,739 B2 & US 8,367,208 B2, Varshneya 2010, Int. J. Appl. Glass Sci. (tukar ion K⁺/Na⁺), Chen dkk. 2018, Light: Science & Applications (subpiksel merah/hijau/biru), Kuo 2013, ECS Interface (transistor tiap piksel), Walker 2012, J. Soc. Inf. Display (layar sentuh kapasitif), data.ai State of Mobile 2024 (6,05 jam/hari, data 2023).\n#serbaseru #bongkardarinol #hpdarinol #layar #sains #edukasi",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/hp03-layar.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/hp03-layar.jpg",
+   "detik": 70,
+   "mb": 48.5,
+   "sha1": "1fe36fa30ec058e58117000cfebb8c738c671bf0",
+   "versi": 1,
+   "catatan": "BARU 12-11 · SERIAL FB \"HP DARI NOL\" Episode 3/6 (tantangan serial FB US$500). 70,0 dtk, LULUS_10 + kunci final Claude utama (sha1 1fe36fa3). UNGGAH LANGSUNG sebagai Reel 05.30 SESUDAH EP2 tayang (usulan Minggu 15-11), label AI ON, sampul = sampul-reels.jpg, caption dari app, lalu TAMBAHKAN KE SERIAL \"HP DARI NOL\" sebagai episode 3. Kabari Claude saat tayang -> komentar sematan (tanggal EP4 disesuaikan) + bagikan ke grup.",
+   "ditambah": "2026-11-12"
+  },
+  {
    "id": "ja01-meerkat",
    "judul": "SERIAL JAGOAN ALAM · EP 1 — Satpam ini ternyata EGOIS?! 😳 (meerkat)",
    "kategori": "Jagoan Alam",
@@ -1309,5 +1323,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-12T05:39:25+07:00"
+ "diperbarui": "2026-11-12T11:39:01+07:00"
 }
