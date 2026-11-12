@@ -45,6 +45,20 @@
    "ditambah": "2026-11-12"
   },
   {
+   "id": "hp04-kamera",
+   "judul": "SERIAL HP DARI NOL · EP 4/6 — Lensa HP-mu MELAYANG?! 😳",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "HP DARI NOL #4 — Lensa kamera HP-mu ternyata MELAYANG 😳\n\nDi dalam kamera HP ada tumpukan lensa mungil yang digantung pegas — dan di banyak HP juga kawat super tipis — lalu didorong magnet maju-mundur sampai fokus. Sensornya dari silikon, saudara chip di Episode 1, dan bisa berisi 50 juta piksel: hampir sebanyak penduduk Jawa Barat! Tapi silikon itu buta warna, jadi tiap piksel dikasih saringan merah, hijau, atau biru; warna sisanya ditebak HP dari piksel tetangganya. Waktu tanganmu goyang, giroskop merasakannya dan magnet menggeser lensa melawan goyangan — makanya fotomu nggak gampang goyang 📸\n\nTapi tanpa casing, HP-mu cuma kepingan berserakan… Episode 5: CASING 🧱 — tonton berurutan di tab Serial \"HP DARI NOL\".\n\nFoto terakhir di galerimu: MAKANAN, SELFIE, atau KERJAAN? Jawab 1 kata di komentar 👇\nKirim ke temanmu yang hobi motret makanan 🍳\n\nSumber: paten modul kamera Mitsumi US 10,571,649 · paten stabilisasi gambar InvenSense US 9,628,713 · paten lensa 7 elemen Largan US 11,982,875 · paten saringan warna Bayer/Kodak US 3,971,065 (1976) · Gunturk dkk., IEEE Signal Processing Magazine 2005 · OMNIVISION OV50M40 (50 MP, 8192×6144) · BPS SUPAS 2025 via ANTARA (Jawa Barat 50,94 juta jiwa) · peta: geoBoundaries (BPS/OCHA, CC BY 3.0 IGO).\n#serbaseru #bongkardarinol #hpdarinol #kamera #sains #edukasi",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/hp04-kamera.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/hp04-kamera.jpg",
+   "detik": 71,
+   "mb": 63.5,
+   "sha1": "6794cb5044ff24b6cceceabb7e50134fca2dbea8",
+   "versi": 1,
+   "catatan": "BARU 12-11 · SERIAL FB \"HP DARI NOL\" Episode 4/6. 70,7 dtk, LULUS_10 + kunci final Claude utama (sha1 6794cb50). UNGGAH 05.30 SESUDAH EP3 tayang (usulan Senin 16-11), label AI ON, tambahkan ke serial sebagai episode 4. Kabari Claude saat tayang.",
+   "ditambah": "2026-11-12"
+  },
+  {
    "id": "ja01-meerkat",
    "judul": "SERIAL JAGOAN ALAM · EP 1 — Satpam ini ternyata EGOIS?! 😳 (meerkat)",
    "kategori": "Jagoan Alam",
@@ -1323,5 +1337,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-12T11:39:01+07:00"
+ "diperbarui": "2026-11-12T11:39:25+07:00"
 }
