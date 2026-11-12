@@ -59,6 +59,20 @@
    "ditambah": "2026-11-12"
   },
   {
+   "id": "hp05-casing",
+   "judul": "SERIAL HP DARI NOL · EP 5/6 — Casing HP-mu dari TANAH MERAH?! 😳",
+   "kategori": "Bongkar dari Nol",
+   "deskripsi": "HP DARI NOL #5 — Casing HP-mu bisa dari TANAH MERAH 😳\n\nTanah merah itu namanya bauksit. Aluminium di dalamnya nempel erat sama oksigen, jadi bauksit direbus pakai soda api panas sampai keluar bubuk putih: alumina. Bubuk ini dilarutkan di lelehan garam khusus (kriolit) yang panasnya sekitar 950 °C, lalu dialiri listrik raksasa. Oksigennya lepas, tinggal aluminium cair. Satu kilo aluminium makan listrik sekitar 14 kWh, itulah kenapa aluminium bisa dibilang \"listrik yang dibekukan\" ⚡\n\nDi Sumatera Utara, listrik utamanya dari PLTA yang memakai air Danau Toba, lalu dikirim ±120 km ke pabrik peleburan di Kuala Tanjung.\n\nAluminium murni kurang kuat, jadi dicampur magnesium lalu dipahat jadi rangka. Permukaannya \"disetrum\" lagi (anodisasi) sampai tumbuh kulit keras yang bisa diwarnai. Terakhir: chip dari pasir, baterai dari isi pensil, layar yang direndam garam, lensa yang melayang… dirakit, tombol ditekan, dan HP-mu MENYALA! 🎉\n\n⚠️ Soda api (NaOH) itu bahan kimia keras pabrik. Jangan dicoba di rumah.\n\nTapi tanpa sinyal, HP-mu cuma senter mahal… Episode 6 (FINAL): SINYAL 📶 — tonton berurutan di tab Serial \"HP DARI NOL\".\n\nHP-mu pakai SOFTCASE atau TELANJANG? Jawab di komentar 👇\nKirim ke temanmu yang HP-nya nggak pernah pakai softcase 📲\n\nSumber: International Aluminium Institute (bauksit direbus soda api panas jadi alumina; ±14.221 kWh per ton aluminium, Proc. ICSOBA 2021), Australian Aluminium Council (alumina dilarutkan di kriolit cair ±950 °C lalu dialiri listrik), Kementerian ESDM 2024 & INALUM (PLTA Sigura-Gura 286 MW + Tangga 317 MW dari air Danau Toba, ±120 km ke smelter Kuala Tanjung), Speira (aluminium murni kurang kuat, dipadu magnesium), paten US 11,457,535 B2 (rumah HP aluminium dianodisasi & diwarnai), EBSCO Research Starters (bauksit = endapan laterit berwarna merah).\n#serbaseru #bongkardarinol #hpdarinol #aluminium #sains #edukasi",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/hp05-casing.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/hp05-casing.jpg",
+   "detik": 70,
+   "mb": 33.6,
+   "sha1": "ce66d8e5a12ff94889fd3edcdf23019abb99ae3f",
+   "versi": 1,
+   "catatan": "BARU 12-11 · SERIAL FB \"HP DARI NOL\" Episode 5/6 (HP akhirnya MENYALA). 69,6 dtk, LULUS_10 + kunci final Claude utama (sha1 ce66d8e5). UNGGAH 05.30 SESUDAH EP4 tayang (usulan Selasa 17-11), label AI ON, tambahkan ke serial sebagai episode 5. Kabari Claude saat tayang.",
+   "ditambah": "2026-11-12"
+  },
+  {
    "id": "ja01-meerkat",
    "judul": "SERIAL JAGOAN ALAM · EP 1 — Satpam ini ternyata EGOIS?! 😳 (meerkat)",
    "kategori": "Jagoan Alam",
@@ -1337,5 +1351,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-12T11:39:25+07:00"
+ "diperbarui": "2026-11-12T11:39:48+07:00"
 }
