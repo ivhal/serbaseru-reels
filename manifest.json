@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "idn01-tabrakan",
+   "judul": "SERIAL INDONESIA DARI NOL · EP 1/5 — Puncak Indonesia dulu DASAR LAUT! 🏔️🌊",
+   "kategori": "Peta Seru",
+   "deskripsi": "Puncak tertinggi Indonesia dulu DASAR LAUT! 🏔️🌊\nBatu di Puncak Jaya (±4.884 m) adalah batu kapur dari laut dangkal yang berisi fosil makhluk laut. Batu itu terangkat karena benua Australia menabrak dari selatan. Di atasnya ada es tropis terakhir antara Himalaya dan Andes, yang kini tinggal ±2%. Kata BMKG, es itu bisa habis akhir 2026 atau awal 2027.\nKomen NAMA KOTAMU 👇 di Episode 5 kita cek: kotamu aman kalau laut naik?\nKirim ke temanmu di Papua 🙌\nINDONESIA DARI NOL · EP 1/5. Tonton berurutan di tab Serial.\nSumber: Woodruff 2010 (GSA); Dozy dkk. 1939; Permana dkk. 2019 (PNAS); BMKG 2026.\n#indonesiadarinol #puncakjaya #papua #geografi #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/idn01-tabrakan.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/idn01-tabrakan.jpg",
+   "detik": 64,
+   "mb": 65.6,
+   "sha1": "35725a07993c229e6c3c9e335817e657aa65af2c",
+   "versi": 1,
+   "catatan": "BARU 13-11 · SERIAL FB KE-2 \"INDONESIA DARI NOL\" Episode 1/5 (bonus serial US$500: tiap episode ≥60 dtk & ≥10 rb tayangan memenuhi syarat). 64,3 dtk, LULUS_10 + kunci final. UNGGAH: MINGGU 15-11 pukul 05.30 (HP EP3 hari itu 06.30). WAJIB nyalakan label AI (narasi AI). Sesudah tayang: kabari Claude → Claude membuat daftar putar FB \"INDONESIA DARI NOL\" (Serial) dari laptop + memasukkan EP1 + mengetik komentar sematan (komentar_sematkan_tayang.txt) + bagikan ke grup.",
+   "ditambah": "2026-11-13"
+  },
+  {
    "id": "hp01-chip",
    "judul": "SERIAL HP DARI NOL · EP 1/6 — Chip HP-mu dari PASIR?! 😳",
    "kategori": "Bongkar dari Nol",
@@ -1545,5 +1559,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-13T13:58:59+07:00"
+ "diperbarui": "2026-11-13T20:56:55+07:00"
 }
