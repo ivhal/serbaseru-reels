@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "idn02-api",
+   "judul": "SERIAL INDONESIA DARI NOL · EP 2/5 — Daratan Indonesia TAMBAH LUAS lagi! 🌋🌊",
+   "kategori": "Peta Seru",
+   "deskripsi": "DARATAN INDONESIA TAMBAH LUAS LAGI! 🌋🌊\nKata PVMBG, letusan Anak Krakatau 4–6 September 2026 menambah daratan ±32,8 hektare (≈46 lapangan bola). Gunung ini mulai tumbuh dari dasar laut tahun 1927, di kawah bekas letusan Krakatau 1883. Suara letusan itu dilaporkan sampai Pulau Rodrigues, ±4.800 km jauhnya.\nKomen NAMA KOTAMU 👇 di Episode 5 kita cek: kotamu aman kalau laut naik?\nKirim ke temanmu di Lampung atau Banten 🙌\n⚠️ Status Waspada: jangan masuk radius 2 km dari kawah (PVMBG).\nINDONESIA DARI NOL · EP 2/5. Tonton dari Episode 1 di tab Serial.\nSumber: PVMBG/Badan Geologi 2026; Smithsonian GVP; Royal Society 1888.\n#indonesiadarinol #anakkrakatau #gunungapi #geografi #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/idn02-api.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/idn02-api.jpg",
+   "detik": 62,
+   "mb": 43.8,
+   "sha1": "949455409a3391d60cc35c6404dfe6ea08400140",
+   "versi": 1,
+   "catatan": "BARU 14-11 · SERIAL FB \"INDONESIA DARI NOL\" Episode 2/5 (bonus serial US$500: tiap episode ≥60 dtk & ≥10 rb tayangan). 62,3 dtk, LULUS_10 + kunci final Claude utama (sha1 94945540). UNGGAH: MINGGU 15-11 pukul 05.30 dari HP (HP EP3 hari itu 06.30), sampul = sampul-reels.jpg, caption dari app. WAJIB nyalakan label AI (narasi AI). Sesudah tayang: TAMBAHKAN KE SERIAL \"INDONESIA DARI NOL\" sebagai episode 2, lalu kabari Claude → komentar sematan (komentar_sematkan_tayang.txt) + bagikan ke grup.",
+   "ditambah": "2026-11-14"
+  },
+  {
    "id": "idn01-tabrakan",
    "judul": "SERIAL INDONESIA DARI NOL · EP 1/5 — Puncak Indonesia dulu DASAR LAUT! 🏔️🌊",
    "kategori": "Peta Seru",
@@ -1559,5 +1573,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-13T20:56:55+07:00"
+ "diperbarui": "2026-11-14T08:17:32+07:00"
 }
