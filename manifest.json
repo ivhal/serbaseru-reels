@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "ks01-token-bunyi",
+   "judul": "SERIAL KELUARGA SERU · EP 1 — Token bunyi jam 2 pagi, Pak punya cara GRATIS 😂⚡",
+   "kategori": "Keluarga Seru",
+   "deskripsi": "Token bunyi jam 2 pagi… Pak punya cara GRATIS 😂⚡\nToken rumahmu sisa berapa? Tulis angkanya 👇\nKirim ke yang suka nunda isi token!\nKELUARGA SERU · EP 1\n#keluargaseru #tokenlistrik #lucu #suamiistri #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/ks01-token-bunyi.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/ks01-token-bunyi.jpg",
+   "detik": 64,
+   "mb": 14.6,
+   "sha1": "f22efddf6075e50b6e9cf9081bb22cc692c18345",
+   "versi": 1,
+   "catatan": "BARU 15-11 · SERIAL FB BARU \"KELUARGA SERU\" EP 1 (stickman suami-istri berdialog; uji format lucu, tiap episode ≥60 dtk untuk bonus serial). 64,3 dtk, LULUS_10 + kunci final Claude utama (sha1 f22efddf). UNGGAH: SELASA 17-11 pukul 12.00 dari HP (Senin 12.00 untuk Peta EP3). WAJIB nyalakan label AI (suara AI). Sampul = sampul-reels.jpg, caption dari app. Sesudah tayang: BUAT SERIAL BARU \"KELUARGA SERU\" di FB dan masukkan sebagai episode 1, lalu kabari Claude → komentar sematan (komentar_sematkan.txt). Ukuran lulus 24 jam: ≥5.000 tayangan memenuhi syarat & tahan 3 dtk ≥55 % → EP2 lanjut.",
+   "ditambah": "2026-11-15"
+  },
+  {
    "id": "idn02-api",
    "judul": "SERIAL INDONESIA DARI NOL · EP 2/5 — Daratan Indonesia TAMBAH LUAS lagi! 🌋🌊",
    "kategori": "Peta Seru",
@@ -1573,5 +1587,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-14T08:17:32+07:00"
+ "diperbarui": "2026-11-15T23:32:02+07:00"
 }
