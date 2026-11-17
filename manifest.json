@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "kln01-luar-negeri",
+   "judul": "KOTAMU KE LUAR NEGERI #1 — Luar negeri 55× lebih dekat daripada Jakarta! 🌏😱",
+   "kategori": "Peta Seru",
+   "deskripsi": "LUAR NEGERI lebih dekat daripada JAKARTA! 🌏😱\nDari Jayapura, kota Vanimo di Papua Nugini cuma 69 km. Ke Jakarta? 3.776 km, hampir 55 kali lipat, lebih jauh daripada Jakarta ke Hong Kong!\nTarakan → Tawau (Malaysia) 112 km · Tanjungpinang → Singapura 81 km (lebih dekat daripada Jakarta–Bandung!) · Kupang → Dili 284 km, bahkan Australia pun lebih dekat daripada Jakarta.\nKotamu berapa kali? Tulis nama kotamu di komen 👇 kita hitungkan!\n📲 Kirim ke temanmu di Papua, Kalimantan, Medan atau Kupang.\nKOTAMU KE LUAR NEGERI #1 · jarak garis lurus antar-pusat kota (data Natural Earth).\n#kotamu #indonesia #peta #geografi #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/kln01-luar-negeri.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/kln01-luar-negeri.jpg",
+   "detik": 64,
+   "mb": 62.8,
+   "sha1": "4aa6a25feeacef2478bf16f4abb63be0f3f207a6",
+   "versi": 1,
+   "catatan": "BARU 17-11 · UJI SERIAL FB INTERAKTIF \"KOTAMU KE LUAR NEGERI\" EP1 (perintah pemilik: episode 1 dulu, tes ombak). 63,5 dtk, LULUS_10 + kunci final (sha1 4aa6a25f). UNGGAH: RABU 18-11 pukul 05.30 dari HP. WAJIB nyalakan label AI (narasi AI). Sampul = sampul-reels.jpg, caption dari app. Sesudah tayang kabari Claude → buat serial FB \"KOTAMU KE LUAR NEGERI\" + komentar sematan (peringkat kota) + bagikan grup. Ukuran 24 jam: ≥5.000 tayangan memenuhi syarat DAN ≥30 komentar → EP2 dari kota di komentar.",
+   "ditambah": "2026-11-17"
+  },
+  {
    "id": "idn03-es",
    "judul": "SERIAL INDONESIA DARI NOL · EP 3/5 — Kapalmu di atas SUNGAI RAKSASA purba! 🚢🏞️",
    "kategori": "Peta Seru",
@@ -1601,5 +1615,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-16T06:25:45+07:00"
+ "diperbarui": "2026-11-17T10:56:48+07:00"
 }
