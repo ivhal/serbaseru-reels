@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "kk02-telur",
+   "judul": "KISAH KEBAIKAN — Cuma Dika dapat 2 telur, telur keduanya selalu tersenyum 🥚😊",
+   "kategori": "Kisah Kebaikan",
+   "deskripsi": "Cuma Dika yang dapat 2 telur… dan telur keduanya selalu tersenyum 🥚😊\n\nSetiap pagi, hanya Dika yang dapat dua telur di ompreng makan sekolahnya. Telur keduanya selalu bergambar senyum, sejak tiga bulan lalu. Kawan-kawannya menjulukinya \"anak emas dapur\". Dan ibu yang membagikan ompreng itu selalu sama: bermasker, menunduk, tak pernah bicara.\n\nSiapa yang menaruh telur itu? Tonton sampai habis 🥹\n\nDi detik ke berapa kamu mulai curiga? Tulis di komen 👇\n📲 Kirim ke ibumu, atau ke siapa pun yang diam-diam selalu menjagamu.\n\nCerita fiksi orisinal Kampung Kebaikan. Program makan bergizi gratis hanya latar cerita.\n#kisahkebaikan #ceritahikmah #kartun #mbg #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/kk02-telur.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/kk02-telur.jpg",
+   "detik": 102,
+   "mb": 436.3,
+   "sha1": "c9897151ad2d507a69192c60ac10693908e76b98",
+   "versi": 1,
+   "catatan": "BARU 18-11 · UJI OMBAK FB KISAH KEBAIKAN (usul pemilik: pakai animasi yang sudah jadi). Salinan apa adanya Kampung Kebaikan EP02 (YouTube 833 rb tayangan). 102 dtk, ±436 MB (unduh pakai Wi-Fi). UNGGAH: Kamis 19-11 pukul 05.30 dari HP sebagai REELS. WAJIB nyalakan label AI. Sampul = sampul-reels.jpg. Sesudah tayang kabari Claude → komentar sematan + bagikan grup. Ukuran 24 jam: ≥5.000 tayangan memenuhi syarat DAN ≥10 bagikan organik.",
+   "ditambah": "2026-11-18"
+  },
+  {
    "id": "kln01-luar-negeri",
    "judul": "KOTAMU KE LUAR NEGERI #1 — Luar negeri 55× lebih dekat daripada Jakarta! 🌏😱",
    "kategori": "Peta Seru",
@@ -1615,5 +1629,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-17T10:56:48+07:00"
+ "diperbarui": "2026-11-18T12:03:05+07:00"
 }
