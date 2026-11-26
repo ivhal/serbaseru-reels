@@ -3,6 +3,20 @@
  "fb_app_id": "",
  "video": [
   {
+   "id": "sk01-kelingking",
+   "judul": "KARTUN SAKIT — Kelingking vs kaki meja (main HP sambil jalan) 🦶💥",
+   "kategori": "Kartun Sakit",
+   "deskripsi": "Kelingking vs kaki meja… selalu kaki meja yang menang 😭🦶\nMain HP sambil jalan, kena DUA kali!\n\nKamu pernah atau BELUM? Jawab satu kata 👇\n📲 Tag teman yang suka jalan sambil main HP\n\n#kartunlucu #animasilucu #kelingking #lucu #serbaseru",
+   "video": "https://github.com/ivhal/serbaseru-reels/releases/download/stok/sk01-kelingking.mp4",
+   "sampul": "https://ivhal.github.io/serbaseru-reels/sampul/sk01-kelingking.jpg",
+   "detik": 9,
+   "mb": 4.4,
+   "sha1": "08923a53875492c3bb18965ad5e9de48dd7746a3",
+   "versi": 1,
+   "catatan": "BARU 26-11 · uji format Laugh By Animation (8,8 dtk tanpa kata). Unggah FB REELS dari HP Sabtu 28-11 12.00 (sesudah Nyasar 05.30), label AI, sampul app. JANGAN masukkan ke serial Kisah Kebaikan. Sesudah tayang kabari Claude → komentar sematan + bagikan grup. Patokan 48 jam: >=50 rb tayangan.",
+   "ditambah": "2026-11-26"
+  },
+  {
    "id": "kk13-ayam",
    "judul": "KISAH KEBAIKAN — Ayam ini bertelur tiap pagi di depan warung yang tutup 🥚",
    "kategori": "Kisah Kebaikan",
@@ -1867,5 +1881,5 @@
    "ditambah": "2026-10-29"
   }
  ],
- "diperbarui": "2026-11-26T18:38:08+07:00"
+ "diperbarui": "2026-11-26T21:59:34+07:00"
 }
